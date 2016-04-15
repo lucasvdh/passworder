@@ -1,9 +1,9 @@
-# Human-friendly password generator
+# Human-friendly password generator (dutch version)
 
 Generates password from 2 parts: first is random, but well-readable string, second is a word from dictionary.
 
 All options are in config file:
- 
+
  - random_uppercase: make several letters uppercase [true/false]
  - uppercase_chance: chance to make letter uppercase. Applies for each letter. [0-9]
  - add_numbers: add or not numbers to password (to the end of both parts). [true/false]
