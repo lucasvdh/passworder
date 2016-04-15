@@ -16,7 +16,7 @@ All options are in config file:
 
 ### 1: install via composer:
 ```
-composer require ircop/passworder
+composer require lucasvdh/passworder
 ```
 
 ### 2: add service provider:
