@@ -22,7 +22,6 @@ Alziende
 Amati
 Amazonen
 Ambonees
-American football
 Amerikaan
 Amsterdam
 Andorra
@@ -137,11 +136,8 @@ Bosch
 Bosjesman
 Bosnisch
 Bosnische
-Bosnië en Herzegovina
 Bosniër
 Bossche
-Botnische Golf
-Bovenwindse Eilanden
 Boze
 Brabander
 Brabant
@@ -154,7 +150,6 @@ Bretons
 Brit
 Brits
 Britse
-Britse Eilanden
 Brugge
 Brugs
 Brussel
@@ -170,7 +165,6 @@ Cajun
 Canada
 Canadees
 Canadese
-Canarische Eilanden
 Caraïeb
 Caricom
 Catalaan
@@ -196,9 +190,6 @@ Comecon
 Congolees
 Congolese
 Cortes
-Costa Rica
-Costa Ricaan
-Costa Ricaans
 Cuba
 Cubaan
 Cubaans
@@ -211,8 +202,6 @@ Daviscup
 Deen
 Deens
 Deense
-Den Bosch
-Den Haag
 Diets
 Divali
 Doema
@@ -230,7 +219,6 @@ Ecuador
 Eden
 Egypte
 Egyptisch
-El Salvador
 Eldorado
 Elohim
 Elysisch
@@ -274,7 +262,6 @@ Franken
 Frankisch
 Frankrijk
 Frans
-Frans Jozefland
 Fransdol
 Franse
 Fransen
@@ -306,7 +293,6 @@ Gibraltar
 God
 Godmens
 Godsrijk
-Golf van Biskaje
 Goliath
 Gotisch
 Gouds
@@ -349,7 +335,6 @@ Hezbollah
 Hinderwet
 Hindi
 Hindoe
-Hoge Raad
 Hogerhuis
 Holi
 Holland
@@ -371,7 +356,6 @@ IJsland
 IJslander
 IJslands
 Iberisch
-Iberisch Schiereiland
 Iberische
 Iberiër
 Ier
@@ -383,7 +367,6 @@ Inca
 India
 Indiaans
 Indiaas
-Indian summer
 Indiase
 Indisch
 Indische
@@ -402,7 +385,6 @@ Irakees
 Iran
 Iraniër
 Iraniërs
-Irish coffee
 Israël
 Israëli
 Israëliet
@@ -413,7 +395,6 @@ Italië
 Ivriet
 Jahwe
 Jakarta
-Jan Klaassen
 Japan
 Japanner
 Japans
@@ -465,7 +446,6 @@ Keuls
 Keulse
 Khmer
 Klaagmuur
-Klein Duimpje
 Knesset
 Koerd
 Koerdisch
@@ -522,7 +502,6 @@ Maagd
 Maaswater
 Macedonië
 Madonna
-Magere Hein
 Mahdi
 Majorca
 Maleier
@@ -548,8 +527,6 @@ Messias
 Mexicaan
 Mexicaans
 Mexico
-Middellandse Zee
-Middellandse Zeegebied
 Mig
 Moederdag
 Mohammed
@@ -573,17 +550,14 @@ Naams
 Naamse
 Namen
 Namenaar
-Nauw van Calais
 Navajo
 Nederbelg
 Nederland
-Nederlandse Antillen
 Nengre
 Neolatijn
 Nepal
 Nepalees
 Nepalese
-New York
 Nickerie
 Nieuwjaar
 Nigeria
@@ -594,7 +568,6 @@ Noordster
 Noorman
 Noors
 Noorse
-Nova Zembla
 Oceanisch
 Oekraïens
 Oekraïne
@@ -650,9 +623,6 @@ Pool
 Pools
 Poolse
 Poolster
-Porto Ricaan
-Porto Ricaans
-Porto Rico
 Portugal
 Portugees
 Portugese
@@ -663,9 +633,6 @@ Profeet
 Pruis
 Pruisen
 Pruisisch
-Puerto Ricaan
-Puerto Ricaans
-Puerto Rico
 Punisch
 Pyrenees
 Pyreneeën
@@ -681,7 +648,6 @@ Rijnlands
 Rijnoever
 Rijnvaart
 Rijnwater
-Rode Kruispost
 Roemeen
 Roemeens
 Roemeense
@@ -715,8 +681,6 @@ Saksisch
 Saksische
 Salisch
 Same
-San Marinees
-San Marino
 Sanskriet
 Saoedi
 Saoediër
@@ -729,7 +693,6 @@ Schot
 Schotland
 Schots
 Schotse
-Schotse Hooglanden
 Schrift
 Scythen
 Sefard
@@ -774,9 +737,6 @@ Spanjaard
 Spanje
 Spartaan
 Spartaans
-Sri Lanka
-Sri Lankaan
-Sri Lankaans
 Statenlid
 Statiaan
 Steenbok
@@ -811,7 +771,6 @@ Theems
 Thora
 Tirools
 Toeareg
-Tour de France
 Trio
 Trojaan
 Trojaans
@@ -823,11 +782,6 @@ Turk
 Turkije
 Turks
 Turkse
-Tweede Kamer
-Tweede Kamercommissie
-Tweede Kamerfractie
-Tweede Kamergebouw
-Tweede Kamerlid
 Twents
 Urdu
 Uruguay
@@ -889,12 +843,6 @@ Zwitserse
 Zwolle
 Zwols
 Zwolse
-a capella
-a fortiori
-a posteriori
-a prima vista
-a priori
-a vista
 aagje
 aagt
 aagtappel
@@ -931,8 +879,6 @@ aambei
 aambeien
 aamt
 aan
-aan den lijve
-aan weerszijden
 aanaarden
 aanbakken
 aanbaksel
@@ -1066,7 +1012,6 @@ aanlengen
 aanleren
 aanleunen
 aanliggen
-aanlijken
 aanlijmen
 aanlijnen
 aanloeien
@@ -1282,7 +1227,6 @@ aardkern
 aardklem
 aardklomp
 aardklont
-aardkloot
 aardkluit
 aardkorst
 aardkunde
@@ -1369,7 +1313,6 @@ aborteur
 aborteuse
 abortief
 abortus
-abortus provocatus
 abraham
 abri
 abrikoos
@@ -1399,9 +1342,6 @@ academie
 acajou
 acanthus
 accent
-accent aigu
-accent circonflexe
-accent grave
 accept
 acceptant
 acceptie
@@ -1479,7 +1419,6 @@ achturig
 achtvlak
 achtvoud
 acid
-acid house
 acne
 acoliet
 acquit
@@ -1523,10 +1462,6 @@ actrice
 actuaris
 actueel
 acuut
-ad fundum
-ad hoc
-ad interim
-ad rem
 adagio
 adagium
 adam
@@ -1555,7 +1490,6 @@ adelborst
 adelbrief
 adeldom
 adelen
-adellijk
 adelstand
 adeltrots
 adem
@@ -1577,7 +1511,6 @@ aderbreuk
 aderen
 aderig
 aderlaten
-aderlijk
 aderspat
 adherent
 adhesie
@@ -2433,7 +2366,6 @@ airmile
 airplay
 airstrip
 ajakkes
-ajam pangang
 ajasses
 ajb
 ajour
@@ -2463,7 +2395,6 @@ akst
 akte
 aktes
 aktetas
-al dente
 alaaf
 alaam
 alant
@@ -2518,11 +2449,7 @@ algauw
 alge
 algebra
 algeheel
-algelijk
 algemeen
-algemeen directeur
-algemeen secretaris
-algemene gaswet
 algoed
 algoritme
 alhier
@@ -2545,11 +2472,9 @@ alkalisch
 alkaloïde
 alkanna
 alkoof
-all right
 alla
 allang
 alle
-alle drie
 allebei
 allebeide
 alledaags
@@ -2598,7 +2523,6 @@ alluviaal
 alluvium
 alm
 alma
-alma mater
 almaar
 almacht
 almachtig
@@ -2634,7 +2558,6 @@ alree
 alreeds
 alruin
 als
-als de wiedeweerga
 alsdan
 alsem
 alsemwijn
@@ -2652,7 +2575,6 @@ altemaal
 altemet
 altemets
 alter
-alter ego
 alteratie
 altereren
 altezamen
@@ -2721,7 +2643,6 @@ ambras
 ambrosia
 ambrozijn
 ambt
-ambtelijk
 ambteloos
 ambtenaar
 ambtsedig
@@ -2848,7 +2769,6 @@ aneurysma
 angel
 angelus
 angina
-angina pectoris
 anglicaan
 anglist
 anglofiel
@@ -2914,7 +2834,6 @@ anoniem
 anonymus
 anorak
 anorexia
-anorexia nervosa
 anorexie
 anschluss
 ansicht
@@ -2950,7 +2869,6 @@ antoniem
 antraciet
 antrax
 antwoord
-anus
 aoristus
 aorta
 aortaklep
@@ -3121,7 +3039,6 @@ armbreuk
 armdik
 arme
 armee
-armelijk
 armelui
 armengeld
 armenhuis
@@ -3175,8 +3092,6 @@ arseen
 arsenaal
 arsenicum
 arseniek
-art deco
-art nouveau
 artefact
 artemisia
 arterie
@@ -3203,7 +3118,6 @@ ascendant
 ascese
 ascetisch
 ascetisme
-aseksueel
 aselect
 asem
 asemen
@@ -3265,7 +3179,6 @@ assignaat
 assisen
 assist
 assistent
-assistent in opleiding
 associé
 associés
 assoneren
@@ -3342,12 +3255,10 @@ attractie
 attribuut
 atv
 atypisch
-au pair
 aubade
 aubergine
 auctie
 auctor
-auctor intellectualis
 aucuba
 audicien
 audioboek
@@ -3382,7 +3293,6 @@ auteur
 autisme
 autist
 auto
-auto van de zaak
 autoalarm
 autobaan
 autoband
@@ -3467,7 +3377,6 @@ avaleren
 avalist
 avance
 avanceren
-avant la lettre
 avatar
 ave
 avegaar
@@ -3497,7 +3406,6 @@ avondkerk
 avondklok
 avondles
 avondlied
-avondlijk
 avondmaal
 avondmis
 avondpost
@@ -3569,7 +3477,6 @@ baardvis
 baardwerk
 baarkleed
 baarkruk
-baarlijk
 baars
 baarzen
 baas
@@ -3751,7 +3658,6 @@ bakvorm
 bakwagen
 bakzeil
 bal
-bal masqué
 balalaika
 balans
 balata
@@ -3775,7 +3681,6 @@ baljapon
 baljurk
 baljuw
 balk
-balkanker
 balkbrug
 balken
 balkhout
@@ -3832,7 +3737,6 @@ bambino
 bamboe
 bamboebos
 bami
-bami goreng
 bamibal
 bamis
 bamisweer
@@ -3872,7 +3776,6 @@ banenplan
 banenpool
 banensite
 bang
-bangelijk
 bangerd
 bangerik
 bangheid
@@ -3932,7 +3835,6 @@ baobab
 baptisme
 baptist
 bar
-bar mitswa
 bara
 barak
 barbaar
@@ -4052,7 +3954,6 @@ basset
 bassin
 bassist
 bassiste
-basso continuo
 basspel
 basspeler
 basstem
@@ -4118,7 +4019,6 @@ beatbox
 beatgroep
 beatmis
 beatnik
-beau monde
 beauty
 beauté
 bebaard
@@ -4628,7 +4528,6 @@ belknop
 belkoord
 belkosten
 belle
-belle époque
 bellen
 beller
 belletje
@@ -4700,7 +4599,6 @@ benedenst
 benefice
 beneficie
 benefiet
-benefit of the doubt
 benemen
 benen
 benenwerk
@@ -4946,7 +4844,6 @@ beslag
 beslagen
 beslagkom
 beslapen
-beslijkt
 beslikt
 beslissen
 beslisser
@@ -5282,7 +5179,6 @@ bezaan
 bezadigd
 bezagen
 bezakken
-bezakt en bepakt
 bezanden
 bezatten
 bezegelen
@@ -5406,7 +5302,6 @@ bidweg
 bie
 bieb
 biecht
-biecht horen
 biechten
 bieden
 bieder
@@ -5468,7 +5363,6 @@ biezen
 biezenmat
 bifocaal
 big
-big bang
 bigamie
 bigamisch
 bigamist
@@ -5478,8 +5372,6 @@ biggelen
 biggen
 bigot
 bij
-bij machte
-bij nachte
 bijaccent
 bijaldien
 bijas
@@ -5673,8 +5565,6 @@ biljoen
 biljoenen
 billboard
 billen
-billijk
-billijken
 bilnaad
 bilocatie
 bilpartij
@@ -5764,7 +5654,6 @@ bisamrat
 biscuit
 biscuitje
 bisdom
-biseks
 bisjaar
 bismillah
 bismut
@@ -5806,8 +5695,6 @@ blaastest
 blaaswerk
 blaasworm
 blabla
-black box
-black metal
 blackjack
 blad
 bladaarde
@@ -5936,10 +5823,6 @@ blijf
 blijfhuis
 blijft
 blijheid
-blijk
-blijkbaar
-blijken
-blijkens
 blijmare
 blijspel
 blijven
@@ -5959,12 +5842,6 @@ blikveld
 blikwaren
 blikwerk
 blind
-blind date
-blind vlieg
-blind vliegen
-blind vliegt
-blind vlogen
-blind vloog
 blinddoek
 blinddruk
 blinde
@@ -6110,7 +5987,6 @@ blondine
 blondje
 blonk
 bloodaard
-bloody mary
 blooper
 bloot
 blootblad
@@ -6161,7 +6037,6 @@ blèt
 blèten
 bnp
 boa
-boa constrictor
 board
 bob
 bobbaan
@@ -6460,9 +6335,6 @@ bomvol
 bomvrij
 bomvrouw
 bon
-bon mot
-bon ton
-bon vivant
 bonafide
 bonboekje
 bonbon
@@ -6772,7 +6644,6 @@ boterzuur
 botheid
 botje
 botjes
-botkanker
 botmassa
 botmuil
 botox
@@ -6811,7 +6682,6 @@ bouillon
 boulanger
 boulevard
 boulimia
-boulimia nervosa
 boulimie
 bourbon
 bourdon
@@ -6981,7 +6851,6 @@ braafheid
 braafjes
 braai
 braak
-braak leggen
 braakbal
 braakgas
 braakjaar
@@ -7071,7 +6940,6 @@ brasserie
 brasserij
 brassière
 brat
-brave hendrik
 braveren
 braverik
 bravo
@@ -7081,7 +6949,6 @@ break
 breakbeat
 breakdown
 breed
-breed lachend
 breedband
 breedheid
 breedte
@@ -7290,7 +7157,6 @@ brooddief
 brooddoos
 broodheer
 broodje
-broodje aap
 broodkar
 broodkast
 broodmand
@@ -7651,7 +7517,6 @@ caesar
 cafetaria
 cafeïne
 café
-café chantant
 cafébaas
 cafébazin
 cafébrand
@@ -7699,7 +7564,6 @@ cameljas
 camembert
 cameo
 camera
-camera obscura
 cameraman
 camion
 camioneur
@@ -7721,7 +7585,6 @@ cancan
 cancelen
 candybar
 cannabis
-cannabis sativa
 cannelure
 canon
 canonbord
@@ -7744,7 +7607,6 @@ cap
 capabel
 cape
 capillair
-capita selecta
 capoeira
 capriccio
 caprice
@@ -7823,7 +7685,6 @@ casting
 castraat
 castratie
 castreren
-casu quo
 casueel
 casus
 casuïst
@@ -7950,7 +7811,6 @@ cesium
 cessie
 cesuur
 cetaceeën
-ceteris paribus
 cfk
 chablis
 chachacha
@@ -7958,7 +7818,6 @@ chaconne
 chador
 chagrijn
 chai
-chaise longue
 chakra
 chalcedon
 chalet
@@ -8007,7 +7866,6 @@ chassis
 chat
 chatbox
 chateau
-chateau migraine
 chatroom
 chatten
 chatter
@@ -8023,7 +7881,6 @@ cheddar
 cheerio
 cheeta
 chef
-chef de cuisine
 cheffin
 chefschap
 chemici
@@ -8054,7 +7911,6 @@ chignon
 chihuahua
 chijl
 chili
-chili con carne
 chiliasme
 chilisaus
 chillen
@@ -8176,7 +8032,6 @@ cité
 civet
 civetkat
 civiel
-civiel ingenieur
 civilist
 civisme
 claim
@@ -8236,8 +8091,6 @@ cloaca
 clochard
 cloche
 close
-close harmony
-close reading
 closet
 closetpot
 closetrol
@@ -8337,12 +8190,10 @@ colamarkt
 colasmaak
 colbert
 colbertje
-cold turkey
 collage
 collageen
 collaps
 collatie
-collect call
 collecte
 collectie
 collector
@@ -8381,7 +8232,6 @@ combolid
 comeback
 comedy
 comfort
-coming man
 comité
 comitélid
 commando
@@ -8392,18 +8242,13 @@ commissie
 commode
 commodity
 commodore
-common rail
 commotie
 communaal
 commune
 communie
-communis opinio
 communist
 community
 compact
-compact camera
-compact cassette
-compact disc
 compagnie
 compagnon
 comparant
@@ -8431,7 +8276,6 @@ comtoise
 concaaf
 concept
 conceptie
-conceptual art
 concern
 concert
 concerto
@@ -8442,14 +8286,11 @@ conclaaf
 conclave
 conclusie
 concours
-concours hippique
 concreet
 concubine
 condens
 condensor
 conditie
-conditio sine qua non
-condition humaine
 condoom
 condor
 conductor
@@ -8485,7 +8326,6 @@ consensus
 consent
 conserven
 consigne
-consilium abeundi
 console
 consommé
 consonant
@@ -8519,7 +8359,6 @@ contour
 contra
 contrabas
 contract
-contradictio in terminis
 contrair
 contramal
 contrarie
@@ -8553,8 +8392,6 @@ copyshop
 coquille
 cordiaal
 cordiet
-cordon bleu
-cordon sanitaire
 corduroy
 corgi
 corner
@@ -8566,12 +8403,10 @@ coronair
 corporale
 corporeel
 corps
-corps diplomatique
 corpsbal
 corpslid
 corpulent
 corpus
-corpus delicti
 correct
 correctie
 corrector
@@ -8607,7 +8442,6 @@ couchette
 coulance
 coulant
 coulantie
-couleur locale
 coulisse
 couloir
 coulomb
@@ -8620,7 +8454,6 @@ country
 county
 coup
 coupe
-coupe soleil
 coupenaad
 couperen
 couperose
@@ -8659,7 +8492,6 @@ coïtus
 coöperant
 coöptatie
 coöpteren
-coûte que coûte
 crack
 cracker
 cranberry
@@ -8706,7 +8538,6 @@ cricket
 cricketen
 cricketer
 crime
-crime passionnel
 crimineel
 crinoline
 crisis
@@ -8743,9 +8574,6 @@ crypten
 cryptisch
 crèche
 crème
-crème brûlée
-crème de la crème
-crème fraîche
 crémant
 crêpe
 crêperie
@@ -8769,8 +8597,6 @@ culture
 cultureel
 cultus
 cultuur
-cum laude
-cum suis
 cumarine
 cumul
 cumulatie
@@ -8797,7 +8623,6 @@ curieus
 curiosa
 curiosum
 curling
-curriculum vitae
 curry
 currysaus
 cursief
@@ -8845,7 +8670,6 @@ daar
 daaraan
 daaraf
 daarbij
-daarbij behorend
 daarboven
 daardoor
 daareven
@@ -8882,7 +8706,6 @@ dadaïst
 dadel
 dadelboom
 dadelbos
-dadelijk
 dadeloos
 dadelpalm
 dader
@@ -8910,7 +8733,6 @@ dagdieven
 dagdromen
 dagdromer
 dagdroom
-dagelijks
 dagen
 dagenlang
 dager
@@ -9012,7 +8834,6 @@ dakvorst
 dakwerk
 dakzijde
 dal
-dalai lama
 dalem
 dalen
 daler
@@ -9036,7 +8857,6 @@ dambord
 dambreuk
 damclub
 dame
-dame blanche
 dameruil
 dames
 damesblad
@@ -9093,7 +8913,6 @@ dansant
 dansavond
 dansbaar
 danscafé
-danse macabre
 dansen
 danser
 danseres
@@ -9190,11 +9009,6 @@ davidster
 davit
 davylamp
 dazen
-de dato
-de facto
-de hele bubs
-de hemel in prijzen
-de jure
 deadline
 deal
 dealen
@@ -9311,7 +9125,6 @@ deelwoord
 deelzin
 deemoed
 deemoedig
-deerlijk
 deern
 deerne
 deernis
@@ -9333,7 +9146,6 @@ deflatoir
 deflexie
 deftig
 degel
-degelijk
 degen
 degene
 degenstok
@@ -9425,7 +9237,6 @@ demasqué
 dement
 demente
 dementi
-dementia praecox
 dementie
 demi
 demissie
@@ -9454,7 +9265,6 @@ denim
 denkbaar
 denkbeeld
 denke
-denkelijk
 denken
 denkend
 denker
@@ -9503,14 +9313,12 @@ deputeren
 deputé
 depêche
 der
-der keerlen god
 derby
 derde
 derdedeel
 derdehalf
 derdeklas
 deren
-dergelijk
 derhalve
 derivaat
 derivatie
@@ -9592,7 +9400,6 @@ deurslot
 deurspion
 deurstijl
 deurveer
-deus ex machina
 deutel
 deuterium
 deuteron
@@ -9626,7 +9433,6 @@ deïst
 dia
 diabeet
 diabetes
-diabetes mellitus
 diabetica
 diaboliek
 diabolo
@@ -9691,7 +9497,6 @@ dicteren
 dictie
 didactiek
 die
-die en die
 dieet
 dieetkok
 dieetleer
@@ -9735,14 +9540,12 @@ dierendag
 dierenvel
 diergroep
 dierkunde
-dierlijk
 diermeel
 dieroffer
 dierproef
 diersoort
 diervoer
 dies
-dies natalis
 diesel
 dieselen
 diesrede
@@ -9876,8 +9679,6 @@ dippen
 dipsaus
 diptiek
 direct
-direct mail
-direct marketing
 directe
 directeur
 directie
@@ -9974,7 +9775,6 @@ doch
 docht
 dochter
 dociel
-docking station
 doctor
 doctoraal
 doctoraat
@@ -9988,7 +9788,6 @@ dodaars
 doddig
 dode
 dodekop
-dodelijk
 dodeman
 doden
 dodencel
@@ -10044,7 +9843,6 @@ doende
 doener
 doeniet
 doening
-doenlijk
 doerak
 doerian
 does
@@ -10207,9 +10005,6 @@ donut
 donzen
 donzig
 dood
-dood gewaand
-dood gewaande
-dood wanen
 doodaf
 doodarm
 doodbraaf
@@ -10293,7 +10088,6 @@ doopsel
 doopvont
 doopwater
 door
-door en door
 dooraderd
 doorbloed
 doorboord
@@ -10504,7 +10298,6 @@ draagband
 draagdoek
 draagkorf
 draaglast
-draaglijk
 draagriem
 draagster
 draagstok
@@ -10561,7 +10354,6 @@ draf
 drafsport
 dragee
 dragees
-dragelijk
 dragen
 drager
 dragline
@@ -10580,7 +10372,6 @@ draler
 dram
 drama
 dramatiek
-dramatis personae
 dramaturg
 drammen
 drammer
@@ -10649,9 +10440,6 @@ dreven
 dribbel
 dribbelen
 drie
-drie tiende
-drie vierde
-drie vijfde
 driearmig
 driebenig
 drieblad
@@ -10933,7 +10721,6 @@ dubbelaar
 dubbelbol
 dubbeldik
 dubbele
-dubbele axel
 dubbelen
 dubbelop
 dubbelrol
@@ -10952,7 +10739,6 @@ duf
 duffel
 duffels
 dufheid
-duidelijk
 duiden
 duider
 duiding
@@ -11130,7 +10916,6 @@ dwarskop
 dwarste
 dwarsweg
 dwarszee
-dwaselijk
 dwaze
 dwazerik
 dweepster
@@ -11165,14 +10950,8 @@ dystrofie
 débouché
 déchéance
 dégénéré
-déjà vu
 délégué
 déléguée
-earl grey
-easy listening
-easy rider
-eau de cologne
-eau de toilette
 ebbe
 ebben
 ebbenboom
@@ -11200,7 +10979,6 @@ echoën
 echoënd
 echt
 echtbreuk
-echtelijk
 echten
 echter
 echtheid
@@ -11265,10 +11043,6 @@ eelt
 eeltig
 eeltlaag
 een
-een derde
-een tiende
-een vierde
-een zesde
 eenaderig
 eenakter
 eenarm
@@ -11280,7 +11054,6 @@ eend
 eendaags
 eendekker
 eendelig
-eendelijk
 eendenbek
 eendenei
 eendenkom
@@ -11341,7 +11114,6 @@ eerder
 eergevoel
 eergierig
 eerlang
-eerlijk
 eerloos
 eermetaal
 eerroof
@@ -11457,7 +11229,6 @@ eigendom
 eigendunk
 eigenen
 eigenheid
-eigenlijk
 eigennaam
 eigenste
 eigenwaan
@@ -11495,7 +11266,6 @@ einddatum
 einddoel
 einde
 eindejaar
-eindelijk
 eindeloos
 einden
 einder
@@ -11684,12 +11454,6 @@ emulatie
 emulgator
 emulgeren
 emulsie
-en bloc
-en détail
-en en
-en face
-en masse
-en plein public
 enakskind
 enclave
 enclise
@@ -11715,7 +11479,6 @@ energiek
 enerlei
 enerveren
 enerzijds
-enfant terrible
 enfin
 eng
 engageren
@@ -11765,7 +11528,6 @@ enting
 entiteit
 entmes
 entourage
-entre nous
 entrecote
 entree
 entreehal
@@ -11828,28 +11590,21 @@ equinox
 equipage
 equipe
 equiperen
-er bij zeggen
 era
 eraan
-eraan toe
 erachten
 erachter
 eraf
 erbarmen
 erbij
-erbij horen
-erbij krijgen
-erbij roepen
 erbinnen
 erboven
 erbovenop
 erbuiten
 erdoor
-erdoorheen krijgen
 ere
 ereambt
 erebaan
-ereblijk
 ereboog
 ereburger
 erecode
@@ -11901,7 +11656,6 @@ erezaak
 erezuil
 erf
 erfdeel
-erfelijk
 erfenis
 erffactor
 erfgenaam
@@ -11930,14 +11684,8 @@ erfwet
 erfzonde
 erg
 ergens
-ergens achter komen
-ergens heen kijken
-ergens over praten
-ergens tegenover staan
-ergens vanaf willen
 erger
 ergeren
-ergerlijk
 ergernis
 ergo
 ergometer
@@ -12002,7 +11750,6 @@ ertussen
 erudiet
 eruditie
 eruit
-eruit liggen
 eruitzien
 eruptie
 eruptief
@@ -12075,8 +11822,6 @@ estrade
 estrik
 estuarien
 estuarium
-et alii
-et cetera
 etage
 etagebed
 etages
@@ -12134,8 +11879,6 @@ etsnaald
 etsplaat
 etswerk
 ette
-ettelijk
-ettelijke
 etter
 etterbak
 etterbuil
@@ -12190,8 +11933,6 @@ evalueren
 evangelie
 evasie
 even
-even groot
-even lang
 evenaar
 evenals
 evenaren
@@ -12224,13 +11965,6 @@ evoceren
 evolueren
 evolutie
 evoqueren
-ex aequo
-ex cathedra
-ex dividend
-ex libris
-ex tempore
-ex temporeetje
-ex voto
 exact
 exactheid
 exaltatie
@@ -12413,10 +12147,8 @@ faience
 failleren
 failliet
 fair
-fair play
 faire
 fairway
-fait accompli
 fake
 faken
 fakir
@@ -12449,7 +12181,6 @@ fanatiek
 fanatisch
 fanatisme
 fanclub
-fancy fair
 fandango
 fanfare
 fanmail
@@ -12494,7 +12225,6 @@ fastback
 fastfood
 fat
 fata
-fata morgana
 fataal
 fatale
 fatalisme
@@ -12511,7 +12241,6 @@ faunawet
 fauteuil
 fauvisme
 fauvist
-faux pas
 favela
 faveur
 faveurtje
@@ -12564,7 +12293,6 @@ feilbaar
 feilen
 feilloos
 feit
-feitelijk
 fel
 felblauw
 felgeel
@@ -12587,9 +12315,7 @@ feminien
 feminisme
 feminist
 feministe
-femme fatale
 fenegriek
-feng shui
 feniks
 fennek
 fenol
@@ -12729,7 +12455,6 @@ filenaam
 fileplan
 fileren
 filet
-filet americain
 filevrij
 filiaal
 filiatie
@@ -12804,13 +12529,11 @@ filterpot
 filtraat
 filtratie
 filtreren
-fin de siècle
 finaal
 finale
 finaledag
 finalist
 finaliste
-financieel directeur
 financier
 financies
 financiën
@@ -12833,11 +12556,8 @@ firmant
 firmante
 firmware
 firn
-first lady
-first out
 fis
 fiscaal
-fiscaal jurist
 fiscalist
 fiscus
 fistel
@@ -13128,7 +12848,6 @@ fopduik
 foppen
 fopperij
 fopspeen
-force majeure
 forceps
 forceren
 forehand
@@ -13252,7 +12971,6 @@ freak
 freaken
 freakshow
 freatisch
-free kick
 freefight
 freejazz
 freelance
@@ -13366,8 +13084,6 @@ fuif
 fuifde
 fuik
 fuiven
-full colour
-full house
 fulltime
 fulltimer
 fulminant
@@ -13563,7 +13279,6 @@ gangster
 gangwerk
 gannef
 gans
-ganselijk
 gansslaan
 ganzenei
 ganzengat
@@ -13608,7 +13323,6 @@ garve
 garven
 garçon
 gas
-gas geven
 gasaanleg
 gasaanval
 gasachtig
@@ -14047,7 +13761,6 @@ gek
 gekabbeld
 gekakel
 gekamd
-gekanker
 gekant
 gekarteld
 gekast
@@ -14084,7 +13797,6 @@ gekloft
 geklonken
 gekloofd
 geklooi
-gekloot
 geklop
 geklots
 gekluisd
@@ -14165,7 +13877,6 @@ geldbeurs
 geldboete
 geldbron
 gelddorst
-geldelijk
 gelden
 geldend
 geldgever
@@ -14225,10 +13936,6 @@ gelieg
 gelieve
 gelieven
 gelig
-gelijk
-gelijk op
-gelijke
-gelijken
 gelijnd
 gelijst
 gelik
@@ -14284,11 +13991,9 @@ gemeen
 gemeend
 gemeente
 gemekker
-gemelijk
 gemenerd
 gemenerik
 gemengd
-gemengd dubbel
 gemet
 gemeubeld
 gemiauw
@@ -14428,7 +14133,6 @@ gepluk
 gepoch
 gepoft
 gepokt
-gepokt en gemazeld
 gepoot
 geposeerd
 gepost
@@ -14511,7 +14215,6 @@ gerstenat
 gerstepap
 gerucht
 geruim
-geruime tijd
 geruis
 geruisarm
 geruit
@@ -14620,8 +14323,6 @@ gestadig
 gestalte
 gestamel
 gestamp
-gestand blijven
-gestand doen
 gestart
 geste
 gesteente
@@ -14706,7 +14407,6 @@ getto
 getuig
 getuigd
 getuige
-getuige à decharge
 getuigen
 getuit
 getuur
@@ -14872,7 +14572,6 @@ gezegd
 gezegde
 gezegeld
 gezegend
-gezeglijk
 gezeik
 gezel
 gezellig
@@ -15044,7 +14743,6 @@ ginder
 ginds
 ging
 ginkgo
-ginkgo biloba
 ginseng
 ginst
 gips
@@ -15107,7 +14805,6 @@ gladhout
 gladiator
 gladiolus
 gladiool
-gladjanus
 gladjes
 gladmaken
 gladweg
@@ -15125,7 +14822,6 @@ glanzig
 glanzing
 glariën
 glas
-glas in lood
 glasaal
 glasbak
 glasbreuk
@@ -15270,7 +14966,6 @@ gocart
 god
 godbetert
 goddank
-goddelijk
 goddeloos
 goddeloze
 goddomme
@@ -15300,7 +14995,6 @@ godsvrede
 godswil
 godzalig
 goed
-goed komen
 goedbloed
 goeddeels
 goeddoen
@@ -15323,7 +15017,6 @@ goedzak
 goeierd
 goeiig
 goelag
-goelijk
 goeman
 goeroe
 goesting
@@ -15358,8 +15051,6 @@ gokwerk
 gokwezen
 gold
 golden
-golden delicious
-golden retriever
 goldrush
 golem
 golf
@@ -15457,7 +15148,6 @@ gotspe
 gottegot
 gouache
 goud
-goud smeden
 goudader
 goudappel
 goudarend
@@ -15472,7 +15162,6 @@ gouddorst
 gouddraad
 gouddruk
 gouden
-gouden eeuw
 gouderts
 goudfolie
 goudforel
@@ -15534,7 +15223,6 @@ graad
 graadboog
 graaf
 graafarm
-graaflijk
 graafwerk
 graafwesp
 graag
@@ -15569,7 +15257,6 @@ graf
 grafbloem
 grafdicht
 grafeem
-grafelijk
 grafen
 graffiti
 graffito
@@ -15604,11 +15291,6 @@ gramatoom
 gramschap
 granaat
 granaten
-grand café
-grand prix
-grand seigneur
-grand slam
-grand slams
 grande
 grandeur
 grandezza
@@ -15618,7 +15300,6 @@ graniet
 granieten
 granito
 granman
-granny smith
 granulaat
 grap
 grapjas
@@ -15832,7 +15513,6 @@ groeitop
 groeivoet
 groeizaam
 groen
-groen geverfd
 groenarm
 groenboek
 groenboer
@@ -15955,7 +15635,6 @@ grosse
 grosseren
 grossier
 grossist
-grosso modo
 grot
 grote
 groter
@@ -15963,7 +15642,6 @@ grotesk
 groteske
 groupie
 groupware
-grovelijk
 growshop
 gruis
 gruisbak
@@ -15982,7 +15660,6 @@ grutterij
 grutto
 gruwel
 gruwelen
-gruwelijk
 gruwen
 gruwzaam
 gruyère
@@ -16148,7 +15825,6 @@ habitueel
 habitus
 habitué
 hachee
-hachelijk
 hachje
 haciënda
 hacken
@@ -16286,7 +15962,6 @@ halsteren
 halstouw
 halszaak
 halt
-halt houden
 halte
 haltepaal
 halter
@@ -16322,7 +15997,6 @@ hamsteren
 hamstring
 hamvraag
 hand
-hand in hand
 handappel
 handbal
 handbel
@@ -16455,9 +16129,6 @@ happen
 happening
 happig
 happy
-happy end
-happy few
-happy hour
 hapschaar
 hapsnap
 haptisch
@@ -16497,7 +16168,6 @@ hardsteen
 hardtop
 hardware
 hardzeil
-hare krisjna
 harem
 haren
 harent
@@ -16505,10 +16175,6 @@ harentwil
 harig
 harigheid
 haring
-haring kaak
-haring kaakt
-haring kaken
-haring speten
 haringkar
 haringnet
 haringsla
@@ -16551,7 +16217,6 @@ harsten
 hart
 hartader
 hartdood
-hartelijk
 harteloos
 harten
 hartenlap
@@ -16587,7 +16252,6 @@ hasjroker
 haspel
 haspelaar
 haspelen
-hatelijk
 hatemail
 haten
 hater
@@ -16596,8 +16260,6 @@ hattrick
 hausse
 haussier
 hautain
-haute couture
-haute cuisine
 hauw
 hauwtje
 havanna
@@ -16662,10 +16324,8 @@ heao
 hearing
 heat
 heavy
-heavy metal
 heb
 hebbeding
-hebbelijk
 hebben
 hebber
 hebberig
@@ -16692,7 +16352,6 @@ hectiek
 hectisch
 hectogram
 heden
-heden ten dage
 hederik
 hedging
 hedonisme
@@ -16726,11 +16385,9 @@ heenronde
 heenweg
 heep
 heer
-heer des huizes
 heerbaan
 heerban
 heerbroer
-heerlijk
 heerneef
 heeroom
 heerschap
@@ -16761,7 +16418,6 @@ heftig
 heftruck
 hefwagen
 heg
-heg noch steg
 hegemonie
 hegge
 heggen
@@ -16798,7 +16454,6 @@ heilbot
 heildronk
 heilicht
 heilig
-heilig verklaard
 heiligdom
 heilige
 heiligen
@@ -16811,7 +16466,6 @@ heilswerk
 heilwens
 heilzaam
 heimat
-heimelijk
 heimwee
 heining
 heipaal
@@ -16822,7 +16476,6 @@ heitje
 heiveld
 heiwerk
 hek
-hekanker
 hekel
 hekelen
 hekelig
@@ -17071,7 +16724,6 @@ hese
 hesen
 hesp
 het
-het is menens
 hetaere
 heten
 heterdaad
@@ -17084,10 +16736,8 @@ hetzelfde
 hetzelve
 hetzij
 heugel
-heugelijk
 heugen
 heugenis
-heuglijk
 heulen
 heulsap
 heulzaad
@@ -17098,7 +16748,6 @@ heupfles
 heupjicht
 heupzwaai
 heus
-heuselijk
 heusheid
 heuvel
 heuvelen
@@ -17164,8 +16813,6 @@ hieven
 hifi
 hifitoren
 high
-high five
-high society
 highbrow
 highteaën
 hightech
@@ -17258,7 +16905,6 @@ hockey
 hockeybal
 hockeyen
 hockeyer
-hocus pocus
 hodgkin
 hoe
 hoed
@@ -17325,15 +16971,6 @@ hoepelrok
 hoephout
 hoepla
 hoepnet
-hoer
-hoera
-hoeraatje
-hoeren
-hoerenkot
-hoereren
-hoererij
-hoeri
-hoerig
 hoes
 hoesfoto
 hoeslaken
@@ -17360,7 +16997,6 @@ hofauto
 hofbal
 hofballet
 hofdame
-hoffelijk
 hofhond
 hofhorig
 hofhorige
@@ -17378,7 +17014,6 @@ hofstede
 hofstee
 hofstoet
 hoge
-hogelijk
 hogen
 hoger
 hogerhand
@@ -17436,30 +17071,6 @@ hommage
 hommel
 hommelbij
 hommer
-homo
-homo australopithecus
-homo erectus
-homo habilis
-homo sapiens
-homo universalis
-homobar
-homofiel
-homofilie
-homofobie
-homofoob
-homofoon
-homogeen
-homograaf
-homohaat
-homologie
-homoloog
-homoniem
-homonymie
-homopaar
-homosauna
-homoscene
-homoseks
-homostel
 homp
 hompelen
 hond
@@ -17512,7 +17123,6 @@ honnig
 honorabel
 honorair
 honoreren
-honoris causa
 hoofd
 hoofdact
 hoofdader
@@ -17585,7 +17195,6 @@ hoogglans
 hoogheid
 hoogland
 hooglands
-hooglijk
 hoogmis
 hoogmoed
 hoognodig
@@ -17656,7 +17265,6 @@ hopakker
 hopbel
 hopbouw
 hope
-hopelijk
 hopeloos
 hopen
 hopje
@@ -17869,7 +17477,6 @@ huiler
 huilerig
 huiltoon
 huis
-huis aan huis
 huisadres
 huisafval
 huisakte
@@ -17885,7 +17492,6 @@ huisbrand
 huisdeur
 huisdier
 huisduif
-huiselijk
 huisgezin
 huisgod
 huisgoden
@@ -17900,7 +17506,6 @@ huiskapel
 huiskat
 huiskring
 huiskruis
-huislijk
 huislook
 huisman
 huismerk
@@ -17976,7 +17581,6 @@ hulstbes
 hulstbos
 hum
 humaan
-human resources
 humaniora
 humanisme
 humanist
@@ -18004,7 +17608,6 @@ hunebed
 hunkeren
 hunkering
 hunner
-huns weegs
 hunzelf
 hup
 huppelen
@@ -18057,7 +17660,6 @@ huurvideo
 huurwagen
 huurwet
 huwbaar
-huwelijk
 huwen
 huzaar
 hyacint
@@ -18112,7 +17714,6 @@ icoon
 icoontje
 ideaal
 ideale
-ideale gaswet
 idealen
 idealisme
 idealist
@@ -18134,7 +17735,6 @@ ideëler
 idiolect
 idioom
 idioot
-idiot savant
 idioterie
 idioticon
 idiotie
@@ -18148,7 +17748,6 @@ iebel
 ieder
 iedere
 iedereen
-iegelijk
 iel
 iemand
 iemker
@@ -18172,7 +17771,6 @@ ignorante
 ignoreren
 ijdel
 ijdelheid
-ijdellijk
 ijdeltuit
 ijk
 ijken
@@ -18205,7 +17803,6 @@ ijsco
 ijscokar
 ijscoman
 ijsdansen
-ijselijk
 ijsemmer
 ijsgang
 ijshal
@@ -18339,47 +17936,6 @@ impromptu
 impuls
 impulsen
 impulsief
-in abstracto
-in beslag nemen
-in casu
-in concreto
-in de lorum
-in de luren leggen
-in defensiekringen
-in den beginne
-in den lande
-in den vreemde
-in dier voege
-in dubio
-in duplo
-in dusverre
-in een mum van tijd
-in extenso
-in extremis
-in feite
-in gebreke
-in gebruik nemen
-in gebruik stellen
-in godsnaam
-in groten getale
-in hemelsnaam
-in het zweet zijns aanschijns
-in memoriam
-in modekringen
-in natura
-in optima forma
-in petto
-in privéhanden
-in spe
-in stand houden
-in stand houdend
-in stand houdende
-in statu nascendi
-in studentenkringen
-in vivo
-in vredesnaam
-in werking treden
-in zoverre
 inactief
 inactieve
 inademen
@@ -18573,8 +18129,6 @@ ingenaaid
 ingenieur
 ingenieus
 ingenomen
-ingenomen met
-ingenomen tegen
 ingeplant
 ingeroest
 ingeschat
@@ -18729,7 +18283,6 @@ inleiden
 inleidend
 inleider
 inleiding
-inlelijk
 inlenen
 inlener
 inlepelen
@@ -18770,7 +18323,6 @@ innemen
 innemend
 inneming
 innen
-innerlijk
 innig
 innigheid
 inning
@@ -18831,7 +18383,6 @@ inruiling
 inruimen
 inruiming
 inrukken
-ins en outs
 inscannen
 inschalen
 inschepen
@@ -18928,7 +18479,6 @@ intellect
 intendant
 intens
 intensief
-intensive care
 intentie
 intercity
 intercom
@@ -19108,7 +18658,6 @@ ionisch
 ioniseren
 ionosfeer
 ippon
-ipso facto
 irenisch
 iridium
 iris
@@ -19166,8 +18715,6 @@ jaagpaard
 jaagpad
 jaap
 jaar
-jaar in jaar uit
-jaar op jaar
 jaarbasis
 jaarbegin
 jaarbeurs
@@ -19188,7 +18735,6 @@ jaarklas
 jaarkoers
 jaarkring
 jaarlast
-jaarlijks
 jaarling
 jaarloon
 jaarmarkt
@@ -19293,8 +18839,6 @@ janslot
 jantje
 jantjes
 januari
-janus
-januskop
 jap
 japanner
 japen
@@ -19368,7 +18912,6 @@ jetski
 jetskiën
 jetskiër
 jeu
-jeu de boules
 jeugd
 jeugdarts
 jeugdblad
@@ -19397,7 +18940,6 @@ jeuken
 jeukerig
 jeuksel
 jeukte
-jeune premier
 jeuzelen
 jeuïg
 jezelf
@@ -19464,7 +19006,6 @@ jogging
 joh
 joinen
 joint
-joint venture
 jojo
 jojoën
 jok
@@ -19630,7 +19171,6 @@ juryprijs
 jus
 juskom
 juslepel
-just in time
 justeren
 justitie
 jut
@@ -19963,12 +19503,6 @@ kangoeroe
 kanis
 kanjer
 kanji
-kanker
-kankeraar
-kankercel
-kankeren
-kankergen
-kankerpit
 kannetje
 kannibaal
 kano
@@ -20116,7 +19650,6 @@ karmijn
 karmozijn
 karn
 karnemelk
-karnemelkse pap
 karnen
 karnhond
 karnmolen
@@ -20385,7 +19918,6 @@ kenletter
 kenmerk
 kenmerken
 kennel
-kennelijk
 kennen
 kenner
 kennis
@@ -20432,7 +19964,6 @@ kerkdak
 kerkdeur
 kerkdief
 kerkdorp
-kerkelijk
 kerken
 kerker
 kerkeren
@@ -20806,7 +20337,6 @@ kinderwet
 kinderzin
 kindlief
 kinds
-kinds zijn
 kindsbeen
 kindsdeel
 kindsheid
@@ -20875,7 +20405,6 @@ kiwi
 klaaf
 klaaghuis
 klaaglied
-klaaglijk
 klaagstem
 klaagster
 klaagtoon
@@ -20897,7 +20426,6 @@ kladderig
 kladderij
 kladje
 kladwerk
-klagelijk
 klagen
 klager
 klagerig
@@ -21022,7 +20550,6 @@ kleikist
 kleilaag
 kleiland
 klein
-klein houden
 kleine
 kleinen
 kleineren
@@ -21248,8 +20775,6 @@ klooi
 klooien
 kloon
 klooster
-kloot
-klootzak
 klop
 klopboor
 klopgeest
@@ -21378,8 +20903,6 @@ knerpen
 knetter
 knetteren
 kneu
-kneukel
-kneukelen
 kneus
 kneuswond
 kneuter
@@ -21816,7 +21339,6 @@ komst
 komvormig
 kon
 kond
-kond doen
 konden
 kondigen
 kondschap
@@ -22100,13 +21622,10 @@ korstje
 korstjes
 korstmos
 kort
-kort geding
 kortaf
 kortbenig
 kortbij
-korte golf
 kortelas
-kortelijk
 korten
 korter
 kortharig
@@ -22134,7 +21653,6 @@ kost
 kostbaar
 kostbaas
 koste
-kostelijk
 kosteloos
 kosten
 koster
@@ -22183,7 +21701,6 @@ kouten
 kouter
 koutje
 kouvatten
-kouwelijk
 kovel
 kozak
 kozen
@@ -22733,10 +22250,6 @@ kustwater
 kustweg
 kustwegen
 kustzone
-kut
-kutten
-kuttenkop
-kutwijf
 kuub
 kuur
 kuurgast
@@ -22764,7 +22277,6 @@ kwakkelig
 kwakken
 kwakkuil
 kwal
-kwalijk
 kwaliteit
 kwalster
 kwam
@@ -22999,9 +22511,6 @@ lagerbus
 lagering
 lagerwal
 lagune
-laisser aller
-laisser faire
-laissez passer
 lak
 lakbeits
 lakei
@@ -23091,7 +22600,6 @@ landdag
 landdier
 landdrost
 landduin
-landelijk
 landen
 landengte
 landerig
@@ -23209,7 +22717,6 @@ lap
 lapdance
 lapel
 lapidair
-lapis lazuli
 lapjeskat
 lapmiddel
 lappen
@@ -23269,7 +22776,6 @@ lassing
 lasso
 lasstaaf
 last
-last minute
 lastarm
 lastbrief
 lastdier
@@ -23304,9 +22810,6 @@ latex
 latexverf
 lathyrus
 latijn
-latin jazz
-latin lover
-latin rock
 lating
 latinisme
 latinist
@@ -23426,7 +22929,6 @@ leeftocht
 leefvorm
 leefwijze
 leeg
-leeg raken
 leegeten
 leeggoed
 leeghalen
@@ -23676,8 +23178,6 @@ leliaards
 lelie
 leliebol
 leliewit
-lelijk
-lelijkerd
 lellebel
 lellen
 lemen
@@ -23754,8 +23254,6 @@ lering
 les
 lesaanbod
 lesauto
-lesbienne
-lesbisch
 lesbo
 lesboek
 lesboer
@@ -23866,7 +23364,6 @@ librium
 licentie
 lichaam
 licht
-licht verteerbaar
 lichtbad
 lichtbak
 lichtbalk
@@ -23933,12 +23430,10 @@ lief
 liefdadig
 liefde
 liefdevol
-liefelijk
 liefheid
 liefje
 liefjes
 liefkozen
-lieflijk
 liefst
 liegbeest
 liegen
@@ -23989,7 +23484,6 @@ liggend
 ligger
 ligging
 lighal
-light verse
 lightrail
 ligkuur
 lignine
@@ -24001,7 +23495,6 @@ ligwei
 ligweide
 lij
 lijboord
-lijdelijk
 lijden
 lijdend
 lijder
@@ -24010,7 +23503,6 @@ lijdzaam
 lijf
 lijfarts
 lijfblad
-lijfelijk
 lijfgarde
 lijfgeur
 lijfgoed
@@ -24021,30 +23513,6 @@ lijfstraf
 lijfstuk
 lijftocht
 lijfwacht
-lijk
-lijkauto
-lijkbaar
-lijkbleek
-lijkbus
-lijken
-lijkengif
-lijkfeest
-lijkkist
-lijkkleed
-lijkkleur
-lijkkoets
-lijkkrans
-lijklucht
-lijkmaal
-lijkoffer
-lijkoven
-lijkrede
-lijkroof
-lijkstoet
-lijkwa
-lijkwade
-lijkwagen
-lijkwit
 lijm
 lijmband
 lijmen
@@ -24101,7 +23569,6 @@ lijzig
 lijzij
 lijzijde
 lik
-lik op stuk
 likdoorn
 likdoren
 likeur
@@ -24139,11 +23606,9 @@ lindehout
 lindelaan
 linden
 lindethee
-linea recta
 lineair
 linesman
 lingerie
-lingua franca
 linguïst
 liniaal
 liniatuur
@@ -24292,7 +23757,6 @@ loevert
 lof
 lofbazuin
 lofdicht
-loffelijk
 lofgezang
 loflied
 lofpsalm
@@ -24607,9 +24071,6 @@ lover
 loverboy
 loverdak
 loverwerk
-low budget
-low cost
-low profile
 loyaal
 loyalist
 loyauteit
@@ -24955,7 +24416,6 @@ magertjes
 maggi
 magie
 magisch
-magisch realisme
 magister
 magiër
 magma
@@ -25018,7 +24478,6 @@ makerij
 makheid
 maki
 makke
-makkelijk
 makken
 makker
 makkie
@@ -25081,7 +24540,6 @@ man
 manachtig
 managen
 manager
-managing director
 manbaar
 manche
 manchet
@@ -25143,12 +24601,10 @@ mankeren
 mankpoot
 mankracht
 manlief
-manlijk
 manmoedig
 manna
 manneke
 manneken
-mannelijk
 mannen
 mannengek
 mannenrol
@@ -25329,7 +24785,6 @@ mastgat
 mastiek
 mastieken
 mastino
-mastino napoletano
 mastitis
 mastkoker
 mastkorf
@@ -25427,7 +24882,6 @@ maïsteelt
 maïsveld
 maïzena
 mbo
-mea culpa
 meander
 meanderen
 meao
@@ -25858,7 +25312,6 @@ mensa
 mensaap
 mensbeeld
 mensdom
-menselijk
 mensenras
 mensenzee
 mensheid
@@ -25907,7 +25360,6 @@ merites
 merk
 merkbaar
 merkel
-merkelijk
 merken
 merkenwet
 merker
@@ -25978,10 +25430,6 @@ mestvork
 mestwagen
 mestwet
 met
-met dien verstande
-met veel verve
-met verve
-met voorbedachten rade
 metaal
 metadata
 metafoor
@@ -26086,7 +25534,6 @@ middenpad
 middenrif
 middenvak
 middenweg
-middle class
 midhalf
 midi
 midvoor
@@ -26127,7 +25574,6 @@ mijmeren
 mijmerij
 mijmering
 mijn
-mijn en dijn
 mijnbouw
 mijne
 mijnen
@@ -26142,7 +25588,6 @@ mijnlamp
 mijnraad
 mijnramp
 mijns
-mijns inziens
 mijnsite
 mijnstad
 mijnwezen
@@ -26225,8 +25670,6 @@ miniemen
 minigolf
 minima
 minimaal
-minimal art
-minimal music
 minimode
 minimum
 minirok
@@ -26239,15 +25682,12 @@ minitop
 minitrip
 mink
 minkukel
-minlijk
-minlijke
 minnaar
 minnares
 minnarij
 minne
 minnegod
 minnelied
-minnelijk
 minnen
 minnenijd
 minnepijn
@@ -26281,7 +25721,6 @@ mirreboom
 mirt
 mirte
 mis
-mis poes
 misachten
 misbaar
 misbak
@@ -26341,7 +25780,6 @@ miss
 missaal
 misschien
 misschot
-misselijk
 missen
 misser
 missie
@@ -26392,8 +25830,6 @@ mitsdien
 mitsen
 mix
 mixage
-mixed grill
-mixed pickles
 mixen
 mixer
 mixes
@@ -26499,8 +25935,6 @@ moeheid
 moei
 moeial
 moeien
-moeilijk
-moeilijke
 moeite
 moeitevol
 moeizaam
@@ -26545,7 +25979,6 @@ moffel
 moffelen
 moffen
 moffin
-mogelijk
 mogen
 mogol
 mohair
@@ -26611,7 +26044,6 @@ mombakkes
 momber
 momboor
 moment
-moment suprême
 momentaan
 momenteel
 momentum
@@ -26625,7 +26057,6 @@ monarch
 monarchie
 monastiek
 mond
-mond op mond
 mondain
 mondaines
 monddeel
@@ -26930,8 +26361,6 @@ mulo
 multimode
 multipel
 multiple
-multiple choice
-multiple sclerose
 multiplex
 multiset
 multomap
@@ -26991,7 +26420,6 @@ mutageen
 mutant
 mutatie
 mutatief
-mutatis mutandis
 mutator
 muteren
 mutilatie
@@ -27086,11 +26514,6 @@ naamval
 naamwoord
 naan
 naar
-naar binnen
-naar de barbiesjes
-naar de barrebiesjes
-naar den vleze
-naar hartenlust
 naardien
 naarheid
 naarling
@@ -27250,7 +26673,6 @@ namaken
 namaker
 namaking
 name
-namelijk
 nameloos
 namen
 namens
@@ -27313,8 +26735,6 @@ naschouw
 naschrift
 naseizoen
 nasi
-nasi goreng
-nasi rames
 nasibal
 nasjen
 naslaan
@@ -27349,7 +26769,6 @@ natiebaas
 natievlag
 natijd
 nationaal
-native speaker
 natmaken
 natrappen
 natrekken
@@ -27505,7 +26924,6 @@ negus
 neigen
 neiging
 nek
-nek aan nek
 nekhaar
 nekken
 nekkramp
@@ -27608,7 +27026,6 @@ netvlies
 netwerk
 netwerken
 netwerker
-neuken
 neuraal
 neuralgie
 neurend
@@ -27665,8 +27082,6 @@ nevenman
 nevenrol
 nevens
 nevenvorm
-new age
-new wave
 newton
 niche
 nichroom
@@ -27766,11 +27181,9 @@ nixe
 niëlleren
 njet
 njonja
-no pay
 nobel
 nobelheid
 noblesse
-noblesse oblige
 nobody
 noch
 nochtans
@@ -27797,7 +27210,6 @@ noga
 nogablok
 nogakraam
 nogal
-nogal wiedes
 nogataart
 nogmaals
 nok
@@ -27807,11 +27219,8 @@ nokkenas
 noklijn
 nokvol
 nol
-nolens volens
 nolle
 nollen
-nom de guerre
-nom de plume
 nomade
 nomaden
 nomadisch
@@ -27873,7 +27282,6 @@ noodwet
 noodzaak
 noodzaken
 nooit
-nooit ofte nimmer
 noord
 noorden
 noordkant
@@ -27912,9 +27320,7 @@ nors
 norsheid
 nosologie
 nostalgie
-not amused
 nota
-nota bene
 notabel
 notabele
 notabelen
@@ -27948,7 +27354,6 @@ notuliste
 nou
 nougat
 nouveauté
-nouveaux riches
 nouvelle
 nova
 noveen
@@ -28001,8 +27406,6 @@ nulvector
 numerair
 numeriek
 numero
-numerus clausus
-numerus fixus
 nummer
 nummeren
 nummering
@@ -28026,7 +27429,6 @@ nylon
 nylonkous
 nymfomaan
 nymfomane
-o jee
 oase
 oasis
 obduceren
@@ -28142,7 +27544,6 @@ oerknal
 oerkracht
 oerkreet
 oerlaag
-oerlelijk
 oermens
 oermodel
 oermoeder
@@ -28176,9 +27577,6 @@ oeveraas
 oeverloos
 oeverval
 oeverwal
-of all people
-of all places
-of zo
 offday
 offensief
 offer
@@ -28211,7 +27609,6 @@ ofschoon
 oftalmie
 oftewel
 ofwel
-ogelijk
 ogen
 ogenblik
 ogentaal
@@ -28236,12 +27633,10 @@ okselstuk
 okshoofd
 oktober
 oké
-old boys network
 oldtimer
 oleander
 oleïne
 olie
-olie voor voedsel
 oliebad
 oliebaron
 olieboer
@@ -28314,9 +27709,6 @@ olijfbos
 olijfhout
 olijfolie
 olijftak
-olijk
-olijkerd
-olijkheid
 olijven
 olim
 oliën
@@ -28326,8 +27718,6 @@ olmenbos
 olympiade
 olympisch
 olympiër
-om den brode
-om en om
 oma
 omafiets
 omarmen
@@ -28608,7 +27998,6 @@ omzwermen
 omzwerven
 omzweven
 omzwikken
-on speaking terms
 onaardig
 onaards
 onaf
@@ -28684,7 +28073,6 @@ onbezien
 onbezocht
 onbezorgd
 onbeëdigd
-onbillijk
 onbloedig
 onbruik
 oncologie
@@ -28692,8 +28080,6 @@ oncoloog
 ondank
 ondanks
 onder
-onder ede
-onder meer
 onderaan
 onderaf
 onderarm
@@ -28747,7 +28133,6 @@ onderlaag
 onderlast
 onderlegd
 onderlijf
-onderlijk
 onderlijn
 onderling
 onderlip
@@ -28802,7 +28187,6 @@ onedel
 oneens
 oneer
 oneerbaar
-oneerlijk
 oneervol
 oneetbaar
 oneffen
@@ -28865,7 +28249,6 @@ ongelegen
 ongeleid
 ongelezen
 ongeliefd
-ongelijk
 ongelijmd
 ongelijnd
 ongelikt
@@ -28873,7 +28256,6 @@ ongelogen
 ongelood
 ongeloof
 ongelovig
-ongelovige thomas
 ongeluk
 ongelukje
 ongemak
@@ -28961,7 +28343,6 @@ onlust
 onlusten
 onmacht
 onmachtig
-onmanlijk
 onmatig
 onmens
 onmin
@@ -28975,7 +28356,6 @@ onnozel
 onnut
 onnuttig
 onontdekt
-onooglijk
 onoorbaar
 onoprecht
 onpaar
@@ -29211,7 +28591,6 @@ onverlet
 onvermeld
 onvermoed
 onverpakt
-onverrichter zake
 onvertakt
 onvervuld
 onverzeld
@@ -29246,13 +28625,11 @@ onzalig
 onze
 onzedig
 onzegbaar
-onzeglijk
 onzeker
 onzen
 onzentwil
 onzer
 onzes
-onzes inziens
 onzijdig
 onzin
 onzinnig
@@ -29281,7 +28658,6 @@ ooglens
 oogletsel
 ooglid
 ooglijder
-ooglijk
 oogmerk
 oogmeting
 oogopslag
@@ -29340,7 +28716,6 @@ oorlam
 oorlap
 oorlel
 oorlog
-oorlog voeren
 oorlogen
 oormerk
 oormerken
@@ -29361,7 +28736,6 @@ oorwurm
 oorzaak
 oorziekte
 oost
-oostelijk
 oosten
 oosteren
 oosterkim
@@ -29381,10 +28755,6 @@ ootje
 ootjes
 ootmoed
 ootmoedig
-op de bonnefooi
-op ooghoogte
-op uitleenbasis
-op zichzelf
 opa
 opaak
 opaal
@@ -29473,9 +28843,7 @@ opeisbaar
 opeisen
 opeising
 open
-open source
 openbaar
-openbaar maken
 openbaren
 opendoen
 openduwen
@@ -29486,7 +28854,6 @@ openhalen
 openheid
 opening
 openlaten
-openlijk
 openmaken
 openslaan
 openstaan
@@ -30017,7 +29384,6 @@ oranje
 oranjerie
 orante
 oratie
-oratio pro domo
 orator
 oratorio
 oratorium
@@ -30027,7 +29393,6 @@ orde
 ordeketen
 ordekleed
 ordekruis
-ordelijk
 ordelint
 ordeloos
 ordenen
@@ -30127,14 +29492,12 @@ oudeheer
 oudejaar
 oudelui
 ouder
-ouder gewoonte
 ouderdag
 ouderdom
 oudere
 ouderen
 ouderhart
 ouderhuis
-ouderlijk
 ouderling
 ouderloos
 ouderpaar
@@ -30166,9 +29529,7 @@ outsider
 ouverture
 ouvreuse
 ouwe
-ouwehoer
 ouwel
-ouwelijk
 ouzo
 ovaal
 ovaaltje
@@ -30182,7 +29543,6 @@ ovenvers
 ovenvisje
 ovenwant
 over
-over the counter
 overal
 overall
 overbeet
@@ -30190,7 +29550,6 @@ overbezet
 overbluft
 overbodig
 overboord
-overboord gooien
 overburen
 overbuur
 overdaad
@@ -30288,7 +29647,6 @@ overrulen
 overschat
 overschep
 overschot
-oversekst
 oversized
 overslaan
 overslag
@@ -30700,7 +30058,6 @@ parasol
 parasport
 parataxis
 parathion
-paratyfus
 parcours
 pardaf
 pardessus
@@ -30754,14 +30111,12 @@ parodie
 parool
 paroxisme
 pars
-pars pro toto
 parsen
 part
 parten
 parterre
 partieel
 partij
-partij kiezen
 partijdag
 partijdig
 partijkas
@@ -30787,8 +30142,6 @@ parure
 paruur
 parvenu
 pas
-pas de deux
-pas op de plaats
 pasar
 pasbout
 pasfoto
@@ -30808,7 +30161,6 @@ paskwil
 paslood
 pasmodel
 pasmunt
-paso doble
 paspen
 paspennen
 paspoort
@@ -30822,7 +30174,6 @@ passages
 passagier
 passant
 passe
-passelijk
 passement
 passen
 passend
@@ -30860,7 +30211,6 @@ pasvorm
 paswoord
 pat
 patat
-patates frites
 patatje
 patattent
 patch
@@ -30870,7 +30220,6 @@ pateel
 pateen
 patent
 pater
-pater familias
 paterstuk
 patertje
 pathefoon
@@ -30880,7 +30229,6 @@ pathogeen
 patholoog
 pathos
 patience
-patience spelen
 patina
 patineren
 patio
@@ -30914,7 +30262,6 @@ paumelle
 pauper
 paus
 pausdom
-pauselijk
 pausen
 pauskeuze
 pausreis
@@ -30933,7 +30280,6 @@ pauzering
 pavane
 paviljoen
 pcb
-peau de pêche
 peauter
 pech
 pechlamp
@@ -31135,8 +30481,6 @@ peptalk
 peptide
 pepton
 per
-per capita
-per se
 perceel
 percent
 perceptie
@@ -31188,7 +30532,6 @@ peronist
 peroratie
 peroreren
 peroxide
-perpetuum mobile
 perplex
 perron
 pers
@@ -31220,9 +30563,7 @@ perslunch
 persman
 persmap
 persmerk
-persona non grata
 personage
-personal computer
 personeel
 persoon
 perspex
@@ -31281,7 +30622,6 @@ petfles
 petfood
 petgat
 petieter
-petit restaurant
 petitfour
 petitie
 petoet
@@ -31341,7 +30681,6 @@ picareske
 piccolo
 pickles
 picknick
-pico bello
 picogram
 picpus
 pictogram
@@ -31432,7 +30771,6 @@ pijnhout
 pijnigen
 pijniger
 pijniging
-pijnlijk
 pijnloos
 pijnpoli
 pijnpunt
@@ -31444,11 +30782,6 @@ pijpaarde
 pijpbeen
 pijpbloem
 pijpdrop
-pijpen
-pijpendop
-pijpenkop
-pijpenla
-pijpenrek
 pijper
 pijpgast
 pijphout
@@ -31616,7 +30949,6 @@ pixel
 pizza
 pizzeria
 pizzicato
-pièce de résistance
 piëdestal
 piëta
 piëteit
@@ -31631,7 +30963,6 @@ plaathaak
 plaatje
 plaatkoek
 plaats
-plaats delict
 plaatsen
 plaatser
 plaatsing
@@ -31683,7 +31014,6 @@ plakzegel
 plamuren
 plamuur
 plan
-plan de campagne
 planbord
 planchet
 plane
@@ -31735,7 +31065,6 @@ plasmolen
 plaspauze
 plaspil
 plasregen
-plasseks
 plassen
 plasser
 plastic
@@ -32000,13 +31329,6 @@ poen
 poenen
 poenerig
 poenig
-poep
-poepdoos
-poepen
-poeper
-poeperd
-poeperij
-poepers
 poer
 poeren
 poes
@@ -32339,7 +31661,6 @@ postcode
 postdatum
 postdoc
 postduif
-poste restante
 postelein
 posten
 poster
@@ -32364,7 +31685,6 @@ postpaard
 postpak
 postpunk
 poststuk
-posttraumatisch stresssyndroom
 posttrein
 postulaat
 postulant
@@ -32602,7 +31922,6 @@ prijsdruk
 prijsgeld
 prijskamp
 prijsklas
-prijslijk
 prijspeil
 prijsslag
 prijsstop
@@ -32629,7 +31948,6 @@ prikstok
 priktol
 pril
 prima
-prima donna
 primaat
 primair
 primarius
@@ -32675,10 +31993,6 @@ privéles
 privéreis
 privézaak
 pro
-pro Deo
-pro bono
-pro forma
-pro memorie
 proactief
 probaat
 probatie
@@ -32902,7 +32216,6 @@ psalmlied
 psalmodie
 psalmvers
 psalter
-pseudologia fantastica
 psilocine
 psoriasis
 pst
@@ -32920,7 +32233,6 @@ pubertijd
 puberzoon
 pubescent
 pubis
-public relations
 publicist
 publiek
 puck
@@ -33033,7 +32345,6 @@ pupil
 puppy
 pups
 pur
-pur sang
 puree
 puren
 pureren
@@ -33107,7 +32418,6 @@ quaestor
 quaestrix
 quaestuur
 quaker
-qualitate qua
 quant
 quark
 quartair
@@ -33122,7 +32432,6 @@ querulant
 query
 queue
 queueën
-qui pro quo
 quiche
 quickstep
 quidam
@@ -33584,7 +32893,6 @@ rechtse
 rechtsom
 rechtte
 rechttoe
-rechttoe rechtaan
 rechtuit
 recidief
 recidive
@@ -33605,7 +32913,6 @@ recreëren
 rectaal
 recto
 rector
-rector magnificus
 rectoraal
 rectoraat
 rectrix
@@ -33629,7 +32936,6 @@ rede
 rededeel
 redekunde
 redekunst
-redelijk
 redeloos
 reden
 redenaar
@@ -33649,7 +32955,6 @@ redres
 redster
 reduceren
 reductie
-reductio ad absurdum
 redundant
 redzaam
 ree
@@ -33857,7 +33162,6 @@ rekenwerk
 rekest
 rekgrens
 rekke
-rekkelijk
 rekken
 rekker
 rekkerig
@@ -33902,8 +33206,6 @@ rem
 remake
 remblok
 rembours
-remedial teacher
-remedial teaching
 remedie
 remgeld
 remigrant
@@ -33925,7 +33227,6 @@ remnaaf
 remolie
 remonte
 remontoir
-remote sensing
 remous
 remover
 rempedaal
@@ -34224,7 +33525,6 @@ rietzodde
 rif
 riff
 rigide
-rigor mortis
 rigorisme
 rigoureus
 rigueur
@@ -34264,7 +33564,6 @@ rijkaard
 rijkaart
 rijkdom
 rijke
-rijkelijk
 rijkelui
 rijken
 rijkheid
@@ -34309,7 +33608,6 @@ rijnzand
 rijp
 rijpaard
 rijpad
-rijpelijk
 rijpen
 rijpheid
 rijping
@@ -34485,7 +33783,6 @@ roadie
 roadmovie
 roadshow
 roadster
-roaring twenties
 rob
 robbedoes
 robben
@@ -34613,7 +33910,6 @@ roeststok
 roestvast
 roestvlek
 roestvrij
-roestvrij staal
 roet
 roetbruin
 roeten
@@ -34735,7 +34031,6 @@ rompstaat
 rompstand
 rompvorm
 rond
-rond krijgen
 rondas
 rondbogig
 rondboog
@@ -35099,7 +34394,6 @@ ruilhart
 ruiling
 ruilvoet
 ruim
-ruim bemeten
 ruimen
 ruimer
 ruimijzer
@@ -35159,7 +34453,6 @@ rune
 runmolen
 runnen
 runner
-running mate
 runsel
 rups
 rupsauto
@@ -35280,9 +34573,7 @@ saki
 sakkeren
 sakkers
 salade
-salade niçoise
 salam
-salam aleikum
 salami
 salangaan
 salariaat
@@ -35307,7 +34598,6 @@ salpeter
 salsa
 salsaband
 salto
-salto mortale
 salueren
 salut
 saluut
@@ -35660,7 +34950,6 @@ scheutist
 schicht
 schichtig
 schiefer
-schielijk
 schieman
 schiep
 schier
@@ -35680,10 +34969,6 @@ schijn
 schijnen
 schijnsel
 schijntje
-schijt
-schijten
-schijter
-schijtgat
 schijven
 schik
 schikken
@@ -35993,7 +35278,6 @@ seance
 sec
 secans
 secessie
-second opinion
 secondair
 secondant
 seconde
@@ -36048,28 +35332,6 @@ seitan
 seizen
 seizing
 seizoen
-seks
-seksbaas
-seksblad
-seksboek
-seksbom
-seksclub
-sekse
-seksen
-sekser
-seksfilm
-seksfoto
-seksisme
-seksist
-seksleven
-sekslijn
-seksloos
-seksorgie
-seksscène
-seksshop
-sekssite
-seksueel
-seksvideo
 sekt
 sektariër
 sekte
@@ -36086,7 +35348,6 @@ selectie
 selectief
 seleen
 selenium
-selffulfilling prophecy
 selfmade
 semafonie
 semafoon
@@ -36108,7 +35369,6 @@ senator
 seneblad
 seniel
 senior
-senior partner
 seniorie
 sennhut
 sensatie
@@ -36128,7 +35388,6 @@ sepot
 sepsis
 september
 septet
-septic tank
 septiem
 septime
 septimo
@@ -36293,7 +35552,6 @@ siergewas
 siergras
 sierkers
 sierkunst
-sierlijk
 sierlijst
 sierplant
 siersel
@@ -36360,7 +35618,6 @@ simuleren
 simultaan
 sinas
 sinds
-sinds mensenheugenis
 sindsdien
 sinecure
 sinecuur
@@ -36576,7 +35833,6 @@ slachtmes
 slachtvee
 slacks
 sladood
-slafelijk
 slag
 slagader
 slagbal
@@ -36642,7 +35898,6 @@ slaperig
 slapers
 slapheid
 slapie
-slapjanus
 slapjes
 slaplant
 slappen
@@ -36661,7 +35916,6 @@ slavin
 slavist
 slavork
 slecht
-slecht verlicht
 slechten
 slechting
 slechtje
@@ -36709,9 +35963,6 @@ slenteren
 slenterig
 slepen
 sleper
-slet
-sleten
-sletig
 sleuf
 sleur
 sleuren
@@ -36738,11 +35989,6 @@ slieren
 sliert
 slierten
 sliet
-slijk
-slijkbord
-slijkerig
-slijkgras
-slijkig
 slijm
 slijmbal
 slijmen
@@ -36900,7 +36146,6 @@ slotwoord
 slotzang
 slotzin
 sloven
-slow motion
 slowfox
 slufter
 sluier
@@ -36973,10 +36218,8 @@ smacht
 smachten
 smachtend
 smack
-smadelijk
 smaden
 smak
-smakelijk
 smakeloos
 smaken
 smakken
@@ -37106,7 +36349,6 @@ smoor
 smoorheet
 smoorklep
 smoorkuil
-smoorlijk
 smoorpot
 smoren
 smos
@@ -37224,7 +36466,6 @@ snert
 snertvent
 sneu
 sneue
-sneukelen
 sneuvelen
 sneven
 snezen
@@ -37381,13 +36622,8 @@ sober
 soberheid
 sobertjes
 sociaal
-sociaal geneeskundige
-sociaal geograaf
-sociaal psycholoog
-sociaal verpleegkundige
 sociabel
 socialist
-socialistisch realisme
 society
 sociniaan
 sociogram
@@ -37441,7 +36677,6 @@ softheid
 softie
 softijs
 softporno
-softseks
 software
 soigneren
 soigneur
@@ -37565,7 +36800,6 @@ sortiment
 sostenuto
 soterisch
 sotternie
-sotto voce
 sou
 soubrette
 souche
@@ -37904,7 +37138,6 @@ spillen
 spilziek
 spilzucht
 spin
-spina bifida
 spinaal
 spinaker
 spinazie
@@ -38329,7 +37562,6 @@ staflid
 stafrijm
 stag
 stage
-stage lopen
 stagejaar
 stageld
 stageloon
@@ -38439,10 +37671,8 @@ stank
 stankgolf
 stanniool
 stansen
-stante pede
 stanza
 stap
-stap voor stap
 stapavond
 stapel
 stapelbed
@@ -38489,8 +37719,6 @@ starttijd
 startveld
 staruimte
 state
-state of the art
-statelijk
 stateloos
 statement
 stater
@@ -38517,7 +37745,6 @@ stayer
 steak
 stealth
 stearine
-stedelijk
 stedeling
 steden
 stee
@@ -38669,7 +37896,6 @@ sten
 stencil
 stencilen
 stenen
-stenen gooien
 steng
 stengel
 stengels
@@ -38695,7 +37921,6 @@ sterfdag
 sterfhuis
 sterfjaar
 sterflat
-sterflijk
 sterfput
 sterfte
 sterftijd
@@ -38761,7 +37986,6 @@ stier
 stieren
 stierf
 stierkalf
-stierlijk
 stierven
 stiet
 stift
@@ -38906,7 +38130,6 @@ stofthee
 stofvrij
 stofwolk
 stok
-stokanker
 stokboon
 stokbrood
 stokdood
@@ -39267,7 +38490,6 @@ stromijt
 stroming
 stronk
 stronken
-stront
 strontium
 strontje
 strontkar
@@ -39333,7 +38555,6 @@ studieus
 studievak
 studio
 studiosus
-studium generale
 stuf
 stuff
 stuffen
@@ -39360,7 +38581,6 @@ stuitstuk
 stuiven
 stuiver
 stuk
-stuk voor stuk
 stukadoor
 stuken
 stukgaan
@@ -39500,7 +38720,6 @@ successie
 succesvol
 succulent
 sucrose
-sudden death
 sudderen
 sudderlap
 suf
@@ -39515,7 +38734,6 @@ suffix
 sufheid
 sugarsnap
 suggestie
-sui generis
 suiker
 suikerbol
 suikerde
@@ -39768,7 +38986,6 @@ taboe
 taboeret
 tabpagina
 tabstop
-tabula rasa
 tabulatie
 tabulator
 tabuleren
@@ -39827,7 +39044,6 @@ tagger
 tagrijn
 tahin
 tahoe
-tai chi
 taifoen
 taiga
 taille
@@ -39886,7 +39102,6 @@ tamarinde
 tamarisk
 tamboer
 tamboeren
-tamelijk
 tamheid
 tamp
 tampen
@@ -40057,16 +39272,6 @@ taxushaag
 taël
 tbc
 tbs
-te berde brengen
-te bestemder tijd
-te elfder ure
-te gelde maken
-te midden
-te midden van
-te moede
-te pas en te onpas
-te stade
-te werk gaan
 teak
 teakhout
 teakolie
@@ -40141,7 +39346,6 @@ teflon
 tegaar
 tegader
 tegel
-tegelijk
 tegeloven
 tegelpad
 tegelwand
@@ -40297,7 +39501,6 @@ tempermes
 tempex
 template
 tempo
-tempo doeloe
 tempobeul
 temponorm
 temporaal
@@ -40309,39 +39512,6 @@ tempura
 tempus
 tempé
 ten
-ten aanschouwen van
-ten algemenen nutte
-ten anderen male
-ten bate van
-ten bedrage van
-ten behoeve van
-ten belope van
-ten besluite
-ten bewijze van
-ten burele
-ten dele
-ten derden male
-ten dienste
-ten enenmale
-ten faveure van
-ten gehore
-ten gemeentehuize
-ten geschenke
-ten gevolge van
-ten grave dragen
-ten huize van
-ten kantore
-ten laste gelegde
-ten laste leggen
-ten onrechte
-ten overstaan van
-ten overvloede
-ten paleize
-ten stadhuize
-ten tonele
-ten vervolge op
-ten vierden male
-ten voordele van
 tenakel
 tenant
 tendens
@@ -40393,14 +39563,6 @@ tepel
 tepelhof
 tequila
 ter
-ter kerke gaan
-ter perse
-ter plaatse
-ter plekke
-ter stede
-ter wille
-ter zake
-ter ziele
 terabyte
 terdege
 terecht
@@ -40427,7 +39589,6 @@ terpdorp
 terpeen
 terpenen
 terra
-terra incognita
 terrarium
 terras
 terrazzo
@@ -40445,10 +39606,6 @@ tertiaris
 tertio
 terts
 terug
-terug kunnen
-terug moeten
-terug willen
-terug zijn
 terugblik
 terugdoen
 teruggaaf
@@ -40467,7 +39624,6 @@ terugval
 terugweg
 terugzien
 terwijl
-terzelfder tijd
 terzet
 terzijde
 terzine
@@ -40497,7 +39653,6 @@ testteam
 testwoord
 testzaak
 tet
-tetanus
 tetra
 tetrarch
 tetraëder
@@ -40600,7 +39755,6 @@ thorax
 thorium
 thriller
 thuis
-thuis voelen
 thuisbaan
 thuisclub
 thuisduel
@@ -40668,7 +39822,6 @@ tijdbalk
 tijdbeeld
 tijdbom
 tijde
-tijdelijk
 tijdeloos
 tijdens
 tijdgeest
@@ -41029,7 +40182,6 @@ toezeggen
 toezenden
 toezender
 toezicht
-toezicht houden
 toezien
 toeziend
 toeziener
@@ -41114,7 +40266,6 @@ tongkus
 tongpunt
 tongriem
 tongschar
-tongue in cheek
 tongval
 tongwerk
 tongzoen
@@ -41175,18 +40326,6 @@ toosten
 tooster
 toot
 top
-top acht
-top drie
-top honderd
-top secret
-top tien
-top twaalf
-top twintig
-top veertig
-top vier
-top vijf
-top vijftien
-top zes
 topaas
 topas
 topatleet
@@ -41318,14 +40457,7 @@ tossen
 toste
 tosti
 tot
-tot bloedens toe
-tot dusver
-tot dusverre
-tot stand komen
-tot stikkens toe
-tot vervelens toe
 totaal
-total loss
 totaliter
 totdat
 totebel
@@ -41345,7 +40477,6 @@ tour
 tournedos
 tournee
 tournure
-tout court
 touw
 touwbaan
 touwen
@@ -41416,7 +40547,6 @@ trainen
 trainer
 traineren
 training
-training on the job
 trainster
 traite
 traiteur
@@ -41983,7 +41113,6 @@ turnzaal
 turquoise
 turven
 tussen
-tussen zitten
 tussenas
 tussendek
 tussenin
@@ -42007,9 +41136,6 @@ twaalf
 twaalfde
 twaalftal
 twee
-twee derde
-twee tiende
-twee vijfde
 tweearmig
 tweebenig
 tweed
@@ -42077,7 +41203,6 @@ twostep
 tycoon
 tyfeus
 tyfoon
-tyfus
 type
 typefout
 typekamer
@@ -42127,10 +41252,6 @@ uilskop
 uiltje
 uisnipper
 uit
-uit eten
-uit jagen
-uit kunnen
-uit willen
 uitademen
 uitbakken
 uitbal
@@ -42204,7 +41325,6 @@ uiten
 uiteraard
 uiterdijk
 uiterland
-uiterlijk
 uitermate
 uiterst
 uiterste
@@ -42345,7 +41465,6 @@ uitpellen
 uitpennen
 uitpersen
 uitpikken
-uitpoepen
 uitpompen
 uitponden
 uitpoot
@@ -42399,7 +41518,6 @@ uitsprong
 uitspugen
 uitspuwen
 uitstaan
-uitstaans hebben met
 uitstap
 uitstedig
 uitstek
@@ -42531,7 +41649,6 @@ uniek
 uniekheid
 uniform
 unionist
-uniseks
 unisono
 unit
 unitair
@@ -42553,17 +41670,14 @@ upload
 uploaden
 upmarket
 upper
-upper ten
 uppercut
 ups
-ups en downs
 uptempo
 uraan
 uraniet
 uranium
 urbaan
 urbanisme
-urbi et orbi
 ure
 uremie
 uren
@@ -42636,7 +41750,6 @@ uzi
 vaag
 vaagheid
 vaagjes
-vaaglijk
 vaagweg
 vaak
 vaakst
@@ -42714,7 +41827,6 @@ vaderhart
 vaderhuis
 vaderland
 vaderlief
-vaderlijk
 vaderloos
 vaderons
 vaderrol
@@ -42725,7 +41837,6 @@ vadoek
 vadsig
 vagant
 vagebond
-vagelijk
 vagen
 vagevuur
 vagina
@@ -42815,13 +41926,10 @@ valpartij
 valpijp
 valreep
 vals
-vals spelen
 valsaard
 valscherm
-valselijk
 valserik
 valsheid
-valsheid in geschrifte
 valslot
 valstrik
 valtijd
@@ -42835,27 +41943,6 @@ vamen
 vamp
 vampier
 van
-van ambtswege
-van binnenuit
-van buiten uit
-van dien
-van gemeentezijde
-van goeden huize
-van goeden wille
-van heinde en verre
-van iets af moeten
-van jongs af
-van koninklijken bloede
-van moslimzijde
-van nature
-van onzentwege
-van oudsher
-van overheidswege
-van overheidszijde
-van stadswege
-van stavast
-van tevoren
-van zins zijn
 vanachter
 vanadium
 vanaf
@@ -42927,7 +42014,6 @@ vasotomie
 vast
 vaste
 vasteland
-vastelijk
 vasten
 vastendag
 vastenwet
@@ -43023,7 +42109,6 @@ veenbrug
 veenderij
 veengrond
 veenlaag
-veenlijk
 veenmol
 veenmos
 veenplas
@@ -43393,7 +42478,6 @@ vergelden
 vergelder
 vergeleek
 vergelen
-vergelijk
 vergeling
 vergen
 vergeten
@@ -43447,7 +42531,6 @@ verhit
 verhitten
 verhitter
 verhoeden
-verhoeren
 verhogen
 verhoging
 verholen
@@ -43657,7 +42740,6 @@ vernaaien
 vernauwen
 vernemen
 vernepen
-verneuken
 vernielal
 vernield
 vernielen
@@ -44091,7 +43173,6 @@ vezelstof
 vezeltje
 vezen
 via
-via via
 viaduct
 viagra
 viaticum
@@ -44102,13 +43183,11 @@ vibrator
 vibreren
 vicariaat
 vicaris
-vice versa
 vicieus
 victorie
 victualie
 vide
 video
-video on demand
 videoband
 videobril
 videoclip
@@ -44126,8 +43205,6 @@ vief
 viefheid
 viel
 vier
-vier tiende
-vier vijfde
 vierarmig
 vieravond
 vierbaans
@@ -44258,7 +43335,6 @@ vinoloog
 vintage
 vinvis
 vinyl
-viola da gamba
 violatie
 violen
 violenbed
@@ -44285,7 +43361,6 @@ virginaal
 viriel
 virologie
 viroloog
-virtual reality
 virtueel
 virtuoos
 virtuoze
@@ -44529,11 +43604,9 @@ vlek
 vlekken
 vlekkerig
 vlekkig
-vlektyfus
 vlerk
 vlerken
 vlerkerig
-vleselijk
 vlet
 vletten
 vletter
@@ -44648,7 +43721,6 @@ vlossig
 vloszij
 vloszijde
 vlot
-vlot trekken
 vlotbrug
 vloten
 vlotgaand
@@ -44788,7 +43860,6 @@ vogelpak
 vogelpark
 vogelpest
 vogelpik
-vogelpoep
 vogelrek
 vogelrijk
 vogelroer
@@ -44805,9 +43876,6 @@ voicemail
 voile
 voiture
 vol
-vol raken
-vol zetten
-vol zitten
 volant
 volatiel
 volbloed
@@ -44829,7 +43897,6 @@ volgen
 volgend
 volgende
 volgens
-volgens Bartjens
 volger
 volgezet
 volgieten
@@ -44963,9 +44030,6 @@ voogd
 voogdes
 voogdij
 voor
-voor de hand liggend
-voor pampus liggen
-voor zover
 vooraan
 vooraf
 voorafje
@@ -45050,7 +44114,6 @@ voorleven
 voorlezen
 voorlezer
 voorlijf
-voorlijk
 voorloop
 voorlopen
 voorloper
@@ -45096,7 +44159,6 @@ voorrecht
 voorrede
 voorronde
 voorruit
-voors en tegens
 voorschip
 voorschot
 voorslaan
@@ -45174,7 +44236,6 @@ vorken
 vorm
 vormbak
 vormeis
-vormelijk
 vormeling
 vormeloos
 vormen
@@ -45271,11 +44332,9 @@ vree
 vreedzaam
 vreemd
 vrees
-vreeslijk
 vreetzak
 vrek
 vrekkig
-vreselijk
 vreten
 vreter
 vreterij
@@ -45307,7 +44366,6 @@ vrijdags
 vrijdagse
 vrijdom
 vrije
-vrijelijk
 vrijen
 vrijer
 vrijerij
@@ -45359,9 +44417,7 @@ vroegrit
 vroegst
 vroegte
 vroegwijs
-vrolijk
 vrome
-vromelijk
 vroom
 vroomheid
 vroon
@@ -45369,7 +44425,6 @@ vroonhof
 vroonland
 vroor
 vrouw
-vrouw des huizes
 vrouwe
 vrouwlief
 vrouwmens
@@ -45433,11 +44488,9 @@ vuren
 vurenhout
 vurig
 vurigheid
-vuriglijk
 vutten
 vutter
 vuur
-vuur spuwen
 vuurbaak
 vuurbaken
 vuurbal
@@ -45538,7 +44591,6 @@ waarheen
 waarheid
 waarin
 waarlangs
-waarlijk
 waarloos
 waarmaken
 waarmede
@@ -45626,10 +44678,8 @@ waldhoren
 walen
 walg
 walgang
-walgelijk
 walgen
 walging
-walglijk
 walhalla
 walhoofd
 waling
@@ -46049,7 +45099,6 @@ weduwe
 weduwekas
 weduwgift
 weduwjaar
-weduwlijk
 weduwnaar
 wedvlucht
 wee
@@ -46321,7 +45370,6 @@ weidegang
 weidegeld
 weidegras
 weideland
-weidelijk
 weiden
 weider
 weiderij
@@ -46354,8 +45402,6 @@ weivlies
 wekamine
 wekaminen
 wekdienst
-wekelijk
-wekelijks
 wekeling
 weken
 wekenlang
@@ -46442,7 +45488,6 @@ wenken
 wennen
 wens
 wensdroom
-wenselijk
 wensen
 wenskaart
 wensouder
@@ -46486,7 +45531,6 @@ werkdoos
 werkdrift
 werkdruk
 werkduur
-werkelijk
 werkeloos
 werkeloze
 werken
@@ -46590,7 +45634,6 @@ wesp
 wespen
 wessi
 west
-westelijk
 westen
 westerkim
 western
@@ -46626,7 +45669,6 @@ wetsteen
 wetstekst
 wetsuit
 wettekst
-wettelijk
 wetteloos
 wetten
 wettig
@@ -46641,7 +45683,6 @@ wezel
 wezen
 wezengeld
 wezenheid
-wezenlijk
 wezenloos
 wezenwet
 wherry
@@ -46653,7 +45694,6 @@ whist
 whisten
 whister
 whistspel
-white spirit
 whizzkid
 whodunit
 wichelaar
@@ -46718,8 +45758,6 @@ wigwam
 wij
 wijbrood
 wijd
-wijd en zijd
-wijd open
 wijdbal
 wijdbeens
 wijde
@@ -46755,7 +45793,6 @@ wijl
 wijle
 wijlen
 wijn
-wijn maken
 wijnactie
 wijnappel
 wijnazijn
@@ -46811,7 +45848,6 @@ wijntje
 wijnvat
 wijnvlek
 wijs
-wijselijk
 wijsgeer
 wijsgerig
 wijsheid
@@ -46862,7 +45898,6 @@ wilgenbos
 wilgentak
 willekeur
 willen
-willens en wetens
 willig
 willigen
 willoos
@@ -46944,7 +45979,6 @@ winner
 winning
 winplaats
 winst
-winst nemen
 winstbron
 winstdoel
 winstkans
@@ -46985,7 +46019,6 @@ wisdoek
 wisecrack
 wisent
 wisheid
-wishful thinking
 wiskop
 wiskunde
 wiskundig
@@ -46997,7 +46030,6 @@ wisselaar
 wisselbad
 wisselen
 wisselend
-wisselijk
 wisseling
 wissen
 wisser
@@ -47046,7 +46078,6 @@ witsel
 witspeler
 witstaart
 witte
-witte wieven
 witteke
 witten
 witter
@@ -47224,7 +46255,6 @@ worging
 worgpaal
 workflow
 workshop
-world wide web
 worm
 wormgat
 wormig
@@ -47271,7 +46301,6 @@ wrang
 wrangheid
 wrat
 wrattig
-wredelijk
 wreed
 wreedaard
 wreedheid
@@ -47477,7 +46506,6 @@ zakcent
 zakdoek
 zakduit
 zakeditie
-zakelijk
 zaken
 zakenauto
 zakenbank
@@ -47624,7 +46652,6 @@ zebracode
 zebrahout
 zebrapad
 zede
-zedelijk
 zedeloos
 zeden
 zedenleer
@@ -47842,7 +46869,6 @@ zegevlag
 zegewagen
 zegezang
 zegge
-zegge en schrijve
 zeggen
 zegger
 zegging
@@ -47898,7 +46924,6 @@ zekere
 zekeren
 zekerheid
 zekering
-zekerlijk
 zekers
 zelateur
 zelatrice
@@ -47967,7 +46992,6 @@ zeppelin
 zerk
 zerken
 zero
-zero tolerance
 zerp
 zerpheid
 zes
@@ -48064,10 +47088,8 @@ ziedend
 ziederij
 ziehier
 ziek
-ziek melden
 ziekbed
 zieke
-ziekelijk
 zieken
 ziekendag
 ziekenkas
@@ -48097,7 +47119,6 @@ zien
 ziende
 ziener
 zieneres
-zienlijk
 ziens
 zienster
 zier
@@ -48112,7 +47133,6 @@ zigeuner
 zigzag
 zigzaggen
 zij
-zij aan zij
 zijaltaar
 zijbalkon
 zijbeuk
@@ -48141,12 +47161,10 @@ zijlinie
 zijloge
 zijmuur
 zijn
-zijn pappenheimers kennen
 zijne
 zijnen
 zijner
 zijnet
-zijns inziens
 zijnsleer
 zijp
 zijpad
@@ -48191,7 +47209,6 @@ zilvervos
 zilverwit
 zin
 zindeel
-zindelijk
 zinderen
 zindering
 zingbaar
@@ -48221,13 +47238,10 @@ zinkwit
 zinkzalf
 zinkzout
 zinledig
-zinlijk
 zinloos
-zinnelijk
 zinneloos
 zinneloze
 zinnen
-zinnens zijn
 zinnespel
 zinnia
 zinnig
@@ -48265,15 +47279,12 @@ zitter
 zitters
 zittijd
 zitting
-zitting hebbend
 zituur
 zitvlak
 zitvlees
 zitzak
 zloty
 zmlk
-zo langzamerhand
-zo nodig
 zoab
 zoal
 zoals
@@ -48322,11 +47333,9 @@ zoenerig
 zoengeld
 zoenoffer
 zoet
-zoet water
 zoetekauw
 zoetelaar
 zoetelief
-zoetelijk
 zoetemelk
 zoeten
 zoeter
@@ -48489,8 +47498,6 @@ zootje
 zopas
 zopen
 zorg
-zorg dragen
-zorgelijk
 zorgeloos
 zorgen
 zorggras
@@ -48499,7 +47506,6 @@ zorghotel
 zorghuis
 zorgkas
 zorgketen
-zorglijk
 zorglijn
 zorgloket
 zorgloon
@@ -48569,7 +47575,6 @@ zuchtig
 zuchtje
 zuid
 zuidas
-zuidelijk
 zuiden
 zuiders
 zuiderzon
@@ -48712,7 +47717,6 @@ zwans
 zwanzen
 zware
 zwart
-zwart geld
 zwartboek
 zwartbont
 zwartdag
@@ -48881,14 +47885,8 @@ zwoor
 zwoord
 zymose
 zèta
-à charge
-à contrecoeur
-à la carte
-à la minute
-à propos
 échéance
 élégance
-éminence grise
 één
 öre
 überhaupt
@@ -48906,7 +47904,6 @@ toeriste
 verhevene
 zonneslag
 Saudische
-huwelijks
 omkaderd
 Baskische
 ontkroesd
@@ -48934,7 +47931,6 @@ drugbende
 groeitijd
 grondhuur
 gyros
-wurgseks
 dagtekst
 antikraak
 fondueset
@@ -48974,7 +47970,6 @@ partyen
 yahtzeeën
 zaketui
 Mokums
-godgelijk
 ijsracen
 coupplan
 wegritsen
@@ -49010,7 +48005,6 @@ geram
 gepronk
 gedrentel
 gespook
-geneuk
 gemieter
 gebal
 gefleem
@@ -49029,7 +48023,6 @@ rasgenoot
 dibbes
 pusher
 onjoods
-onvrolijk
 ongelaagd
 cacaoboer
 onkerks
@@ -49043,7 +48036,6 @@ ongeuit
 onbeplant
 kopijvel
 richtbaar
-soloseks
 wurger
 fopper
 zeper
@@ -49247,7 +48239,6 @@ anlaut
 avondmens
 bepruiken
 koereiger
-lijkvlek
 woonkuil
 plofklank
 kunstkop
@@ -49299,7 +48290,6 @@ kweekje
 dommerd
 rotjong
 kakkies
-poepgat
 strafklas
 hulpbrug
 dillezaad
@@ -49437,7 +48427,6 @@ bosrank
 corniche
 muurhaak
 roodkop
-spuitpoep
 grauwwit
 maagmond
 roerijzer
@@ -49510,10 +48499,7 @@ longtop
 negerkind
 zipdrive
 Adek
-Al Qaida
 Albinees
-Ardenner ham
-Ardense hesp
 Arowak
 Arowaks
 Asjkenazi
@@ -49521,62 +48507,30 @@ Aucaans
 Aucaner
 Azteeks
 Boterwet
-Champions League
-Champions Leaguewedstrijd
-Christian Science
 Coroniaan
-Dode Zeerollen
-Dolle Mina
-Don Juan
-Don Quichot
-Downing Street
 Eskimohut
-Guinees biggetje
 Gurkha
 Jodenmop
-Jut en Jul
 Kafkafan
-Keti Koti
-Kol Nidrei
-Land van Kokanje
-Maltezer kruis
-Maltezer leeuwtje
 Manx
 Marowijns
 Matawai
 Miradj
-Mont Blancbeklimming
 Natin
-New Yorker
-New Yorks
 Oernevel
 Paraan
 Paraans
-Queen Annestijl
 Riffijn
-Rode Duivelswedstrijd
-Rosj Hasjana
-San Andreasbreuk
-Simchat Thora
 Sjavoeot
 Srananman
-Sri Krisjna
 Stanfries
-Stille Oceaangebied
-Sturm und Drang
 Talmudica
-Temmincks strandloper
 Tosefta
-Tweede Kamerlidmaatschap
 Wajana
 Wanicaan
 Wanicaans
 Warau
-Witte Huiswoordvoerder
-Zaanse klok
-Zwarte Zeevloot
 abaja
-ad hominem
 addenoi
 adukiboon
 afknijper
@@ -49589,7 +48543,6 @@ amto
 andesgier
 angisa
 angostura
-anno Domini
 apinti
 archeofyt
 arganolie
@@ -49601,7 +48554,6 @@ avondmist
 awari
 azuki
 baanderen
-babi pangang
 babiroesa
 babymais
 babymaïs
@@ -49619,7 +48571,6 @@ baribal
 barré
 basishoek
 baskiet
-bat mitswa
 batter
 bazigheid
 bebophaar
@@ -49634,11 +48585,9 @@ berenboek
 berenhap
 biedstijl
 biesbok
-bij geruchte vernemen
 bijtring
 bikker
 bima
-bitter lemon
 bitterpee
 blaaswier
 bladderig
@@ -49676,7 +48625,6 @@ bureaujob
 burgul
 busbo
 byebye
-café noir
 camaieu
 chazanoet
 cheider
@@ -49685,21 +48633,16 @@ citohulp
 clafoutis
 clubsjaal
 coccejaan
-cola light
-cold case
 concubaan
 copycard
-crème au beurre
 cystenier
 dalang
 dalver
 damboek
 dansi
 dansrage
-dark horse
 davvenen
 dawet
-de bout hachelen
 decorwand
 decurio
 decurion
@@ -49712,23 +48655,16 @@ dividivi
 djilbab
 djorken
 dogla
-dolle mina
-domme august
-domus Dei
 donsveer
 draagmier
 drukring
-due diligence
 duikadres
 dumpschip
 dwergberk
-döner kebab
 ebo
 ecloge
 ediacara
 eemien
-eigener beweging
-en profil
 enchilada
 enkelkous
 ereorde
@@ -49736,7 +48672,6 @@ erfwoning
 etagebos
 eto
 europide
-extended family
 eïs
 fedajien
 fellaga
@@ -49747,7 +48682,6 @@ fiancé
 fichebak
 filaria
 finummer
-flat character
 flesgroen
 flinterig
 floraliën
@@ -49756,9 +48690,7 @@ fopmiddel
 fopsigaar
 fotofobie
 foutslag
-fruits de mer
 frust
-frutti di mare
 funkbas
 gabarit
 galkoliek
@@ -49766,8 +48698,6 @@ galoet
 galoppas
 galzucht
 geco
-gefilte fisj
-gekke henkie
 gelebek
 gemberpot
 gemeier
@@ -49785,7 +48715,6 @@ gloschool
 godsstad
 godswoord
 gomma
-gothic novel
 grafvaas
 grammaire
 grasluis
@@ -49807,7 +48736,6 @@ hamschijf
 handbezem
 hanigheid
 hardvoer
-haricots verts
 hartpunt
 hedjra
 heikraan
@@ -49823,7 +48751,6 @@ hobuer
 hofopera
 hokkig
 holoniem
-hora est
 househit
 houtmaat
 houtmeel
@@ -49834,24 +48761,14 @@ huiskraai
 hulpkit
 huppelpas
 hymneboek
-hysteron proteron
 icetea
 ijsachtig
 ijsappel
 ijsballet
-in absentia
-in allen gevalle
-in familiehanden
-in koelen bloede
-in regeringshanden
-in staatshanden
-in triplo
-in voce
 indom
 inktlijn
 iriscoop
 jachtsaus
-jack russell
 jagersjas
 jakobiet
 jasses
@@ -49895,7 +48812,6 @@ kniewater
 knoopband
 koestraat
 kokoskoek
-kol nidrei
 kolffles
 kolfplaat
 koollong
@@ -49913,8 +48829,6 @@ kromhoorn
 kruidkers
 ktv
 kuiptent
-kutsmoes
-kutzwager
 kwallig
 kwasibita
 kwezelig
@@ -49934,7 +48848,6 @@ leefhoek
 leerkring
 lentejas
 leukjes
-lijkmis
 lno
 loeach
 longvaten
@@ -49942,7 +48855,6 @@ loodblauw
 loodkoord
 looprail
 loostrens
-lost generation
 luierwas
 maagslang
 maagstoot
@@ -49967,7 +48879,6 @@ melkkrat
 melksteen
 melkzeep
 mentsj
-mer à boire
 meroniem
 mesdjid
 mezomme
@@ -49977,8 +48888,6 @@ minikrach
 minipil
 miradj
 misgokken
-mo A
-mo B
 moekim
 mohairen
 moheel
@@ -50005,7 +48914,6 @@ nieges
 niemboom
 nikab
 nisskakam
-no cure
 noni
 nootolie
 notchback
@@ -50016,7 +48924,6 @@ oelpan
 ofiologie
 ohaën
 oioplaats
-on the rocks
 ongesausd
 ontmaken
 ontzippen
@@ -50025,29 +48932,23 @@ operarol
 opgelierd
 opjuinen
 opmaaksel
-oral history
 oribi
 orni
 osteoma
-out of the blue
 ozonarm
 ozonrijk
 paalkrans
 padieboer
 pagara
-pain à la grecque
 pakgoed
 pakira
 pandita
 pangi
-panna cotta
-par excellence
 paragneis
 parnas
 partydier
 parwa
 pastifi
-patati patata
 peerdrops
 peies
 pendrive
@@ -50060,14 +48961,11 @@ pijnpit
 pikolet
 pireng
 piripiri
-pisang goreng
 plaatpers
 plaatwals
 plaatzwam
-plat du jour
 pleier
 pleiner
-poepbruin
 polsdruk
 pommerak
 pondteken
@@ -50075,7 +48973,6 @@ poolkring
 powisi
 pralerig
 prikwater
-primus inter pares
 proefspel
 propperig
 puinbrok
@@ -50108,7 +49005,6 @@ rotishop
 rotisseur
 rotshaan
 rubberbal
-running gag
 saalien
 saladbar
 saoto
@@ -50117,9 +49013,6 @@ schietmot
 schokvast
 scènefoto
 seibel
-seksetest
-shish kebab
-short story
 siertegel
 slaapjurk
 slagplank
@@ -50138,7 +49031,6 @@ snotlap
 sojavlees
 spanfiets
 speelklok
-spic en span
 spierpees
 spierstuk
 spiesbok
@@ -50151,7 +49043,6 @@ stakenas
 stamwapen
 starfruit
 steekneus
-stille willie
 stofknoop
 stokmeter
 stolpnaad
@@ -50161,32 +49052,19 @@ stortklep
 strokleur
 strooidop
 strooiwei
-sub rosa
 succubus
 sufkees
 surimono
 suripop
 swipi
-syndroom van Asperger
 taboulé
 taikoen
 tallegio
 tarboesj
 targoem
-te bestemder plaatse
-te eniger tijd
-te onzen voordele
 techina
 tefille
 teloh
-ten bewijze
-ten geschenke geven
-ter beurze
-ter eenre zijde
-ter kerke
-ter ore
-terra nigra
-terra sigillata
 tirette
 titiaap
 tjabé
@@ -50206,16 +49084,9 @@ tuttut
 twatwa
 tweepoot
 twk
-uit kostenoogpunt
-uit milieuoogpunt
 uitkakken
 unzippen
-upper class
 vaasvorm
-van bondswege
-van dattum
-van krommenaas gebaren
-van likmevestje
 vanghek
 veldgrijs
 velomaker
@@ -50237,7 +49108,6 @@ voj
 vollullen
 vorstkam
 vrijerig
-vrolijke frans
 vuurkruis
 vuurmuur
 vuurtang
@@ -50263,8 +49133,6 @@ zaadkiem
 zandrits
 zegsmens
 zenuwpil
-ziekte van Ménière
-ziekte van Weil
 zinsritme
 zipfile
 zitkubus
@@ -50274,30 +49142,6 @@ zonnewei
 zoögamie
 zwageres
 zwavelkop
-à gogo
-Eerste Kamerfractie
-Eerste Kamerlid
-Eerste Kamervoorzitter
-Hof van Cassatie
-Middellandse Zeekust
-Middellandse Zeeland
-Tweede Kamervoorzitter
-Vlaamse kermis
-democratisch socialist
-er bekaaid van afkomen
-honderd miljoen
-junior manager
-militant nationalistisch
-moleculair bioloog
-op de pof
-te eigen bate
-te gelegener tijd
-te harent
-te hunnent
-te mijnent
-te onzent
-terzijde staan
-ver verwijderd
 decafeïné
 Habsburgs
 Kennemer
@@ -50856,8 +49700,6 @@ nachtduik
 nachtnet
 nachtrit
 nestbouw
-neukpaal
-neukstaaf
 oeverzone
 okselhaar
 oliebasis
@@ -50873,7 +49715,6 @@ pisvee
 pizzadeeg
 plakstrip
 planfase
-poepluier
 poetshulp
 postrock
 potkluit
@@ -50894,7 +49735,6 @@ rustplek
 rustpost
 scheergel
 seinbeeld
-seksdrive
 showmodel
 showtuin
 skibril
@@ -51212,7 +50052,6 @@ buienwolk
 buigpees
 buikkleur
 buiklijn
-buiktyfus
 buikvlek
 buismaag
 buispaal
@@ -51863,8 +50702,6 @@ levenswet
 levenszin
 leverbot
 lijflucht
-lijkvocht
-lijkzak
 lijmoor
 lijnbreuk
 lijnmotor
@@ -52040,8 +50877,6 @@ nagelvuil
 nazikamp
 nestblok
 nestkamer
-neukbeurt
-neuklat
 neusdop
 neuspunt
 neusslijm
@@ -52073,7 +50908,6 @@ omzetbaar
 oogcrème
 oogdop
 ooggel
-oogkanker
 oogmasker
 oogring
 oogrok
@@ -52166,8 +51000,6 @@ plooival
 plotlijn
 plottwist
 plusklas
-poepbroek
-poeplucht
 poetswerk
 pokerhand
 pokersite
@@ -52319,11 +51151,6 @@ schubvis
 schuilnis
 schuurdak
 scoreloos
-seksfeest
-seksgodin
-sekspop
-seksslaaf
-sekstape
 sfeerfoto
 showavond
 showbeest
@@ -52467,7 +51294,6 @@ stijgtijd
 stijlgids
 stijltang
 stinkstad
-stoephoer
 stofkeuze
 stofkleed
 stoflaag
@@ -52660,7 +51486,6 @@ turnbond
 turnfeest
 turnkring
 turnsport
-tyfushond
 typenaam
 uiensap
 uienteelt
@@ -53367,7 +52192,6 @@ lesplaats
 lesstijl
 lichtzoet
 lierstart
-lijkgeur
 lijnteelt
 lijstvorm
 linkerrij
@@ -53391,7 +52215,6 @@ moederkip
 mondkap
 motorkist
 muismodel
-neukvlees
 neusbreuk
 neusstuk
 noodnaam
@@ -53408,7 +52231,6 @@ plantaal
 planteam
 ploegfoto
 plusdraad
-poepseks
 portsaus
 postronde
 prikpost
@@ -53570,7 +52392,6 @@ leverader
 loodslab
 mondrand
 moseik
-neukgat
 ogenzalf
 pijnzin
 postkar
@@ -53613,8 +52434,6 @@ ijsbloem
 koeweide
 lanspunt
 oefenwee
-pijphoer
-plakpoep
 pompdruk
 rijstand
 scanauto
@@ -53790,7 +52609,6 @@ prozac
 rockjazz
 sanitatie
 schrikhek
-sekserol
 servo
 stans
 stereoset
@@ -53961,7 +52779,6 @@ hoefbron
 hoefhamer
 hoeklijst
 holvoet
-homobom
 hondendek
 hondsapen
 hoogeind
