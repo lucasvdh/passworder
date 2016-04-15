@@ -97,7 +97,7 @@ class Passworder
 		$number_of_lines = $file->key();
 		$file->seek(mt_rand(0, $number_of_lines - 1));
 
-		$word = $file->fgets();
+		$word = trim($file->fgets());
 		return $this->randomize($word);
 	}
 
