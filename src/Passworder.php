@@ -111,13 +111,16 @@ class Passworder
 		$vowels = 'aeiou';
 		$len = 6;
 
+		$str = '';
 		$c = $v = [];
-		for( $x = 0; $x < $len; $x++ ) {
-			$c[$x] = substr( $consonants, mt_rand(0, strlen($consonants) - 1 ), 1 );
-			$v[$x] = substr( $vowels, mt_rand(0, strlen($vowels) - 1 ), 1 );
+		for( $x = 0; $x <= $len; $x++ ) {
+			if(mt_rand(0, 1)) {
+				$str .= substr( $consonants, mt_rand(0, strlen($consonants) - 1 ), 1 );
+			}
+			else {
+				$str .= substr( $vowels, mt_rand(0, strlen($vowels) - 1 ), 1 );
+			}
 		}
-
-		$str = $c[0] . $v[0] . $c[2] . $c[1] . $v[1];
 		return $this->randomize($str);
 	}
 }
