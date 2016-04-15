@@ -45,9 +45,11 @@ Config will be moved to /config/passworder.php
 
 Code:
 ```
+$start = microtime(true);
 for( $i=0; $i<10; $i++ ) {
-	echo \Passworder::gen()."<br>";
+	echo \Passworder::gen()."\r\n";
 }
+echo "\r\nTime: ".((microtime(true)-$start)*1000)."ms";
 ```
 
 Config:
@@ -61,5 +63,16 @@ Config:
 
 Output:
 ```
-TODO
+digcu<filosofe2
+neddu0/ecartErEn
+dibre(reef
+sorpo-boterDOos
+budti)daKladder
+rugso%arcadIa7
+purcu5!kweking
+CetMo9#volzAliG6
+kerto3_froufrou4
+madpa3-zandAal1
+
+Time: 15.393972396851ms
 ```

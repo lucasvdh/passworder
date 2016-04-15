@@ -92,12 +92,10 @@ class Passworder
 	 */
 	private function getWord()
 	{
-		$file = new SplFileObject(config_path('wordset.txt'));
-		$file->seek(PHP_INT_MAX);
-		$number_of_lines = $file->key();
-		$file->seek(mt_rand(0, $number_of_lines - 1));
-
-		$word = trim($file->fgets());
+		if($this->words == NULL) {
+			$this->words = explode("\n",file_get_contents(config_path('wordset.txt')));
+		}
+		$word = trim($this->words[mt_rand(0, count($this->words)-1)]);
 		return $this->randomize($word);
 	}
 
