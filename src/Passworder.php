@@ -15,9 +15,19 @@ class Passworder
 	public function gen()
 	{
 		$word = $this->getWord();
-		$str = $this->getString();
+		$string = $this->getString();
 
-		return str_replace(["\r", "\n"], '', $this->getResult($str, $word));
+		$password = $this->inject($string, $word);
+
+		$password = $this->inject($password, $this->getDelimeter());
+
+		return str_replace(["\r", "\n"], '', $password);
+	}
+
+	private function inject($target, $string)
+	{
+		$rand_pos = mt_rand(0, strlen($target) - 1 );
+		return substr($target, 0, $rand_pos) . $string . substr($target, $rand_pos);
 	}
 
 	private function getResult( $string, $word )
