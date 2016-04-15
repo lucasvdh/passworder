@@ -1,6 +1,6 @@
 {
-    "name": "ircop/passworder",
-    "description": "Human-readable password generator",
+    "name": "lucasvdh/passworder",
+    "description": "Human-readable password generator (dutch version)",
     "license": "GPLv2",
     "type": "",
     "keywords": ["laravel", "password", "password generator"],
