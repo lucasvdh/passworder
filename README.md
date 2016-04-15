@@ -41,36 +41,25 @@ php artisan vendor:publish
 ```
 Config will be moved to /config/passworder.php
 
-
-
 # Usage examples:
 
 Code:
 ```
 for( $i=0; $i<10; $i++ ) {
-      echo \Passworder::gen()."<br>";
-  }
+	echo \Passworder::gen()."<br>";
+}
 ```
 
 Config:
 ```
-    'random_uppercase' => true,
-    'uppercase_chance' => 1,        # 0-9
-    'add_numbers' => true,
-    'number_chance' => 5,           # 0-9
-    'delimeters'  => '-_!@%.#',
+	'random_uppercase' => true,
+	'uppercase_chance' => 1,        # 0-9
+	'add_numbers' => true,
+	'number_chance' => 5,           # 0-9
+	'delimeters'  => '-_!@%.#',
 ```
 
 Output:
 ```
-sobmu.heat
-Rupke4.print
-bistO2-doubt
-penga#agree
-TambU8#papeR6
-RamdA!woman
-tebPU-sleep
-dogke.wOuNd4
-Todki!linen
-nanrO.WoRk6
+TODO
 ```
