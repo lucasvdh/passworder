@@ -16,7 +16,7 @@ class Passworder
 		$word = $this->getWord();
 		$str = $this->getString();
 
-		return $this->getResult($str, $word);
+		return str_replace(["\r", "\n"], '', $this->getResult($str, $word));
 	}
 
 	private function getResult( $string, $word )
