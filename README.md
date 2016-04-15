@@ -1,3 +1,5 @@
+This package is a variation of [ircop/passworder](https://github.com/ircop/passworder)
+
 # Dutch human-friendly password generator
 
 Generates password from 2 parts: first is random, but well-readable string, second is a word from dictionary.
