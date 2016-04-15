@@ -19,7 +19,7 @@ class PassworderServiceProvider extends ServiceProvider
 		$this->publishes([
 			__DIR__ . '/Config/wordset.txt' => config_path('wordset.txt'),
 			__DIR__ . '/Config/passworder.php' => config_path('passworder.php'),
-		], 'config');
+		]);
 	}
 
 	/**
