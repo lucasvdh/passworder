@@ -23,21 +23,21 @@ composer require lucasvdh/passworder
 
 Open `config/app.php`, and add to the `providers` array:
 ```
-Ircop\Passworder\PassworderServiceProvider::class,
+Lucasvdh\Passworder\PassworderServiceProvider::class,
 ```
 
 ### 3: add facade alias:
 
 In the `config/app.php`. add to the `aliases` array:
 ```
-'Passworder' => Ircop\Passworder\Facade\Passworder::class,
+'Passworder' => Lucasvdh\Passworder\Facade\Passworder::class,
 ```
 
 ### 4: Publishing config:
 
 Run in the console:
 ```
-./artisan vendor:publish --provider="Ircop\Passworder\PassworderServiceProvider"
+php artisan vendor:publish
 ```
 Config will be moved to /config/passworder.php
 

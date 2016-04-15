@@ -1,14 +1,9 @@
-<?php
+<?php namespace Lucasvdh\Passworder\Facade;
 
-namespace Ircop\Passworder\Facade;
-#use Illuminate\Support\Facades\Facade;
 use Illuminate\Support\Facades\Facade;
 
 /**
- * Created by PhpStorm.
- * User: wingman
- * Date: 12.11.2015
- * Time: 16:36
+ * Credits to wingman
  */
 
 class Passworder extends Facade
