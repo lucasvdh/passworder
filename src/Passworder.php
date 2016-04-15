@@ -10,6 +10,7 @@ class Passworder
 {
 
 	private $randCase = true;
+	private $words = NULL;
 
 	public function gen()
 	{
