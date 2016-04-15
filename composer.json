@@ -5,10 +5,14 @@
     "type": "",
     "keywords": ["laravel", "password", "password generator"],
     "authors": [
-        {
-            "name": "wingman",
-            "email": "wingman@ip-home.net"
-        }
+			{
+				"name": "wingman",
+				"email": "wingman@ip-home.net"
+			},
+			{
+				"name": "lucas",
+				"email": "lucas@rapide.nl"
+			}
     ],
     "minimum-stability": "dev",
     "require": {},
