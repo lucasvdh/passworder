@@ -359,7 +359,6 @@ Japanse
 Javaan
 Javaans
 Jemen
-Jezus
 Jiddisch
 Jiddische
 Jodin
@@ -373,7 +372,6 @@ Kaffer
 Kaffers
 Kamer
 Kamerlid
-Kanaal
 Kattegat
 Kelt
 Kelten
@@ -398,7 +396,6 @@ Koerd
 Koerdisch
 Komintern
 Koran
-Kozak
 Kreeft
 Kretenzer
 Krijgshof
@@ -1078,7 +1075,6 @@ aanwinnen
 aanwinst
 aanwippen
 aanzagen
-aanzakken
 aanzeggen
 aanzegger
 aanzeilen
@@ -1184,7 +1180,6 @@ aaskever
 aastor
 aasvlieg
 aasvogel
-aaszak
 abactis
 abacus
 abandon
@@ -1302,7 +1297,6 @@ achterst
 achterste
 achteruit
 achterweg
-achterzak
 achterzij
 achthoek
 achting
@@ -2058,7 +2052,6 @@ afvalplan
 afvalput
 afvalrace
 afvalstof
-afvalzak
 afvangen
 afvaren
 afvechten
@@ -2142,8 +2135,6 @@ afwrijven
 afwringen
 afzadelen
 afzagen
-afzakken
-afzakking
 afzanding
 afzegenen
 afzeggen
@@ -2578,7 +2569,6 @@ amuseren
 amuzikaal
 amygdala
 amylose
-anaal
 anabole
 anabolen
 anabolica
@@ -3289,7 +3279,6 @@ baakgeld
 baal
 baaldag
 baalgoed
-baalzak
 baan
 baanbed
 baanloos
@@ -3562,7 +3551,6 @@ baltstijd
 baluster
 balvast
 balzaal
-balzak
 bama
 bamba
 bambino
@@ -3573,7 +3561,6 @@ bamibal
 bamis
 bamisweer
 bamzaaien
-banaal
 banaan
 banaat
 bancair
@@ -3882,7 +3869,6 @@ bedbodem
 bedden
 beddenbak
 beddenpan
-beddenzak
 bedding
 bede
 bedeeld
@@ -3904,7 +3890,6 @@ bedelorde
 bedelstaf
 bedeltje
 bedelven
-bedelzak
 bedenkdag
 bedenken
 bedenker
@@ -4987,7 +4972,6 @@ bezaaiing
 bezaan
 bezadigd
 bezagen
-bezakken
 bezanden
 bezatten
 bezegelen
@@ -5388,7 +5372,6 @@ binnenste
 binnenval
 binnenvet
 binnenweg
-binnenzak
 binnenzee
 binnenzij
 binocle
@@ -5721,7 +5704,6 @@ bloemtuil
 bloemvorm
 bloemwerk
 bloemzaad
-bloemzak
 bloemzoet
 bloes
 bloesem
@@ -6312,7 +6294,6 @@ borstslag
 borststem
 borststuk
 borstvin
-borstzak
 bosaanleg
 bosachtig
 bosarbeid
@@ -6605,7 +6586,6 @@ braadslee
 braadspit
 braadstuk
 braadvet
-braadzak
 braaf
 braafheid
 braafjes
@@ -6858,7 +6838,6 @@ broekrok
 broekstuk
 broekveer
 broekvent
-broekzak
 broer
 broertje
 broes
@@ -6923,7 +6902,6 @@ broodmix
 broodnijd
 broodroof
 broodvorm
-broodzak
 broom
 broos
 broosheid
@@ -7128,7 +7106,6 @@ bultenaar
 bultig
 bultjes
 bultrug
-bultzak
 bumper
 bundel
 bundelen
@@ -8697,7 +8674,6 @@ decaliter
 decalogus
 decaloog
 decameter
-decanaal
 decanaat
 decatlon
 december
@@ -9408,7 +9384,6 @@ doding
 dodo
 doedel
 doedelen
-doedelzak
 doeg
 doei
 doek
@@ -9890,7 +9865,6 @@ draagstok
 draagtas
 draagtijd
 draagvlak
-draagzak
 draagzeel
 draai
 draaibaar
@@ -10165,7 +10139,6 @@ droogten
 droogtijd
 droogvoer
 droogweg
-droogzak
 droom
 droomauto
 droomboek
@@ -11410,7 +11383,6 @@ etterbak
 etterbuil
 etteren
 etterig
-etterzak
 etude
 etui
 etuis
@@ -11690,7 +11662,6 @@ familiaar
 familiair
 familiale
 familie
-fanaal
 fanaat
 fanatica
 fanatici
@@ -12698,7 +12669,6 @@ galgje
 galigaan
 galjoen
 galjoot
-galkanaal
 galkoorts
 gallen
 gallig
@@ -13376,7 +13346,6 @@ geldwagen
 geldwezen
 geldwolf
 geldzaak
-geldzak
 geldzucht
 geleden
 gelederen
@@ -13437,7 +13406,6 @@ geluksdag
 gelukspop
 gelukszon
 gelukwens
-gelukzak
 gelul
 gelule
 gelummel
@@ -14026,7 +13994,6 @@ gezaagd
 gezag
 gezagsvol
 gezagvol
-gezakt
 gezalfde
 gezang
 gezanik
@@ -14455,7 +14422,6 @@ goedmaken
 goedmaker
 goedmarkt
 goedrond
-goedzak
 goeierd
 goeiig
 goelag
@@ -14534,7 +14500,6 @@ gondola
 gong
 gongslag
 gonje
-gonjezak
 gonorroe
 gons
 gonzen
@@ -15230,8 +15195,6 @@ haarverf
 haarwater
 haarworm
 haarwrong
-haarzak
-haarzakje
 haarzelf
 haas
 haast
@@ -15651,7 +15614,6 @@ hartvang
 hartvlies
 hartvorm
 hartwater
-hartzakje
 hartzeer
 hasj
 hasjhond
@@ -15696,7 +15658,6 @@ havermeel
 havermout
 haverstro
 havervlok
-haverzak
 havezaat
 havezate
 havik
@@ -16268,7 +16229,6 @@ hobbelaar
 hobbelen
 hobbelig
 hobbelweg
-hobbezak
 hobbit
 hobbits
 hobby
@@ -16334,7 +16294,6 @@ hoekstoot
 hoektand
 hoektoren
 hoekvlag
-hoekzak
 hoelahoep
 hoempa
 hoen
@@ -17148,7 +17107,6 @@ ijshal
 ijshockey
 ijshut
 ijsje
-ijskanaal
 ijskap
 ijskast
 ijskegel
@@ -17192,7 +17150,6 @@ ijsvrij
 ijswafel
 ijswater
 ijswinter
-ijszak
 ijszee
 ijszeilen
 ijver
@@ -17951,9 +17908,6 @@ inwrijven
 inzaaien
 inzage
 inzagen
-inzake
-inzakken
-inzakking
 inzamelen
 inzegenen
 inzeilen
@@ -18178,7 +18132,6 @@ jaspand
 jaspis
 jasschort
 jassen
-jaszak
 jatagan
 jatmoos
 jatte
@@ -18463,7 +18416,6 @@ justitie
 jute
 jutegaren
 juten
-jutezak
 jutmis
 juttemis
 jutten
@@ -18622,7 +18574,6 @@ kafmolen
 kaft
 kaftan
 kaften
-kafzak
 kajak
 kajakken
 kajuit
@@ -18765,8 +18716,6 @@ kamrad
 kamvormig
 kamwiel
 kamwol
-kanaal
-kanaalvak
 kanaat
 kanarie
 kanaster
@@ -19071,7 +19020,6 @@ kaveling
 kavelruil
 kaviaar
 kawina
-kazak
 kazemat
 kazen
 kazer
@@ -19271,8 +19219,6 @@ kerkvoogd
 kerkvorst
 kerkweg
 kerkwet
-kerkzak
-kerkzakje
 kerkzang
 kermen
 kermes
@@ -20131,7 +20077,6 @@ knapper
 knapperd
 knapperen
 knapperig
-knapzak
 knar
 knarpen
 knarsen
@@ -20526,7 +20471,6 @@ kolenslik
 kolenstof
 kolentip
 kolenvuur
-kolenzak
 kolenzeef
 kolere
 koleriek
@@ -20603,7 +20547,6 @@ konkelpot
 konstabel
 kont
 kontje
-kontzak
 konvooi
 koof
 koog
@@ -20663,7 +20606,6 @@ koolvis
 koolwagen
 koolwitje
 koolzaad
-koolzak
 koolzuur
 koolzwart
 koon
@@ -20941,7 +20883,6 @@ kouter
 koutje
 kouvatten
 kovel
-kozak
 kozen
 kozerij
 kozijn
@@ -21462,7 +21403,6 @@ kurkboom
 kurkdroog
 kurkeik
 kurken
-kurkenzak
 kurkhout
 kurkiep
 kurkplaat
@@ -21748,7 +21688,6 @@ lakei
 laken
 lakenhal
 lakens
-lakenzak
 lakjas
 lakken
 laklaag
@@ -21812,7 +21751,6 @@ lamsvel
 lamsvlees
 lamswol
 lamszadel
-lamzak
 lamzalig
 lancaster
 lanceren
@@ -21955,7 +21893,6 @@ lapperij
 lapsus
 laptop
 lapwerk
-lapzak
 lapzalven
 lapzwans
 larderen
@@ -22501,7 +22438,6 @@ lettertje
 leugen
 leugenaar
 leugentje
-leugenzak
 leuk
 leukemie
 leukerd
@@ -23120,7 +23056,6 @@ loonvoet
 loonwerk
 loonwet
 loonwig
-loonzakje
 loop
 loopbaan
 loopband
@@ -23302,7 +23237,6 @@ luchtreus
 luchtruim
 luchtshow
 luchtweg
-luchtzak
 luchtziek
 lucide
 lucifer
@@ -23346,7 +23280,6 @@ luis
 luiskop
 luister
 luisteren
-luiszak
 luit
 luitenant
 luitist
@@ -24128,7 +24061,6 @@ meelpap
 meelspijs
 meeltor
 meelworm
-meelzak
 meemaken
 meemoeder
 meenemen
@@ -25385,7 +25317,6 @@ motsneeuw
 motte
 motten
 mottenbal
-mottenzak
 mottig
 motto
 motvrij
@@ -25546,7 +25477,6 @@ muurvast
 muurverf
 muurvlak
 muurwerk
-muzak
 muze
 muzelman
 muzenzoon
@@ -26340,7 +26270,6 @@ noodweer
 noodweg
 noodwet
 noodzaak
-noodzaken
 nooit
 noord
 noorden
@@ -28364,7 +28293,6 @@ opwippen
 opwrijven
 opzadelen
 opzagen
-opzakken
 opzeg
 opzegbaar
 opzeggen
@@ -28817,7 +28745,6 @@ paffen
 pafferig
 paffig
 pafpaal
-pafzak
 pagaai
 pagaaien
 pagadder
@@ -29023,7 +28950,6 @@ pappot
 paprika
 paps
 papyrus
-papzak
 para
 paraaf
 paraat
@@ -29414,7 +29340,6 @@ penitent
 pennen
 pennenbak
 pennenmes
-pennenzak
 penner
 penning
 pennoen
@@ -29565,7 +29490,6 @@ perswee
 perswet
 perswezen
 perszaal
-perszaken
 pertinent
 pervers
 perversie
@@ -29704,7 +29628,6 @@ piepjong
 piepklein
 piepstem
 pieptoon
-piepzak
 pier
 piercen
 piercing
@@ -29776,7 +29699,6 @@ pijproken
 pijproker
 pijptabak
 pijpwerk
-pijpzak
 pijpzweer
 pikant
 pikantig
@@ -30075,7 +29997,6 @@ platvorm
 platweg
 platwerk
 platworm
-platzak
 plausibel
 plaveien
 plaveiing
@@ -30242,7 +30163,6 @@ plunderen
 plunje
 plunjer
 plunjers
-plunjezak
 pluralis
 pluriform
 plus
@@ -30312,7 +30232,6 @@ poetser
 poetsgoed
 poetslap
 poetsster
-poetszak
 poezel
 poezelig
 poezen
@@ -30646,7 +30565,6 @@ postwagen
 postweg
 postwet
 postwezen
-postzak
 postzegel
 potaarde
 potas
@@ -31245,7 +31163,6 @@ puntloos
 puntmuts
 puntvijl
 puntvlam
-puntzak
 pupil
 puppy
 pups
@@ -32005,7 +31922,6 @@ reistijd
 reiswagen
 reisweg
 reiswieg
-reiszak
 reizen
 reizend
 reiziger
@@ -32798,7 +32714,6 @@ rokhanger
 rokjas
 rokken
 rokpand
-rokzak
 rolaap
 rolbaan
 rolbezem
@@ -33099,7 +33014,6 @@ rotting
 rotvaart
 rotweer
 rotwoord
-rotzak
 rotzooi
 rotzooien
 rotzorg
@@ -33211,7 +33125,6 @@ rugwaarts
 rugwering
 rugwervel
 rugwind
-rugzak
 rugzijde
 ruide
 ruien
@@ -34597,7 +34510,6 @@ slaapstad
 slaapstee
 slaapster
 slaapzaal
-slaapzak
 slaatje
 slab
 slabakken
@@ -34724,7 +34636,6 @@ sleepruim
 sleeptoon
 sleeptouw
 sleeptros
-sleepzak
 sleet
 sleetje
 sleetocht
@@ -35784,7 +35695,6 @@ speknek
 speksteen
 spektakel
 spekvet
-spekzak
 spel
 spelbeeld
 spelboek
@@ -36092,7 +36002,6 @@ sportveld
 sportwet
 sportzaak
 sportzaal
-sportzak
 spot
 spotbeeld
 spotdicht
@@ -36206,7 +36115,6 @@ spuitlak
 spuitstuk
 spuitvis
 spuitwerk
-spuitzak
 spul
 spullen
 spurrie
@@ -36528,7 +36436,6 @@ steekturf
 steekvlam
 steekwond
 steekzaag
-steekzak
 steel
 steelband
 steelgat
@@ -36975,7 +36882,6 @@ stoots
 stoottand
 stootvast
 stootvoeg
-stootzak
 stop
 stopbit
 stopbits
@@ -37270,7 +37176,6 @@ strot
 strotklep
 strovuur
 strowis
-strozak
 structuur
 struif
 struik
@@ -37696,7 +37601,6 @@ tabakker
 tabakspot
 tabaksrol
 tabakswet
-tabakszak
 tabasco
 tabbaard
 tabberd
@@ -37978,7 +37882,6 @@ taxipost
 taxirit
 taxistop
 taxiwet
-taxizaken
 taxol
 taxon
 taxonomie
@@ -38418,7 +38321,6 @@ theetijd
 theetuin
 theewagen
 theewater
-theezakje
 theezeef
 thema
 themaboek
@@ -39407,7 +39309,6 @@ trekvogel
 trekweg
 trekwerk
 trekzaag
-trekzak
 trema
 tremel
 tremolo
@@ -40005,7 +39906,6 @@ uitgeteld
 uitgeven
 uitgever
 uitgevuld
-uitgezakt
 uitgezet
 uitgieren
 uitgieten
@@ -40250,7 +40150,6 @@ uitwuiven
 uitzaad
 uitzaaien
 uitzagen
-uitzakken
 uitzege
 uitzeilen
 uitzenden
@@ -41659,10 +41558,6 @@ verwurgen
 verzaden
 verzadigd
 verzagen
-verzaken
-verzaking
-verzakken
-verzakt
 verzaligd
 verzanden
 verzeggen
@@ -41728,7 +41623,6 @@ vestibule
 vestigen
 vestiging
 vesting
-vestzak
 vetachtig
 vetarm
 vetblad
@@ -41781,7 +41675,6 @@ vetvrij
 vetwei
 vetweiden
 vetweider
-vetzak
 vetzucht
 vetzuur
 veulen
@@ -42417,7 +42310,6 @@ voetbreed
 voetbrug
 voeteling
 voeten
-voetenzak
 voeter
 voeteren
 voeteuvel
@@ -42449,7 +42341,6 @@ voetveer
 voetvolk
 voetvrij
 voetweg
-voetzak
 voetzand
 voetzool
 vogel
@@ -42939,7 +42830,6 @@ vree
 vreedzaam
 vreemd
 vrees
-vreetzak
 vrek
 vrekkig
 vreten
@@ -43060,7 +42950,6 @@ vuilte
 vuiltje
 vuiltong
 vuilwit
-vuilzak
 vuist
 vuistbijl
 vuisten
@@ -43353,7 +43242,6 @@ wangen
 wangetje
 wangslijm
 wangunst
-wangzak
 wanhoop
 wanhopen
 wanhopig
@@ -43516,7 +43404,6 @@ wastunnel
 wasvat
 wasvrouw
 waswater
-waszak
 waszij
 waszijde
 water
@@ -43620,7 +43507,6 @@ waterwijs
 waterwild
 waterwilg
 waterwolf
-waterzak
 waterzo
 waterzooi
 watje
@@ -43946,7 +43832,6 @@ wegwijs
 wegwijzer
 wegwissen
 wegwuiven
-wegzakken
 wegzappen
 wegzenden
 wegzetten
@@ -44531,7 +44416,6 @@ windvaan
 windvang
 windveer
 windvlaag
-windzak
 windzijde
 winegum
 wingebied
@@ -44745,7 +44629,6 @@ wolven
 wolvenvel
 wolverver
 wolvin
-wolzak
 womanizer
 wombat
 wond
@@ -45010,7 +44893,6 @@ zaaisel
 zaaitijd
 zaaiveld
 zaaizaad
-zaaizak
 zaak
 zaakje
 zaaknaam
@@ -45055,44 +44937,6 @@ zagen
 zager
 zagerij
 zagevent
-zakagenda
-zakatlas
-zakband
-zakbijbel
-zakboekje
-zakbreuk
-zakcent
-zakdoek
-zakduit
-zakeditie
-zaken
-zakenauto
-zakenbank
-zakenblad
-zakendoen
-zakenjet
-zakenlui
-zakenman
-zakenmens
-zakenreis
-zakenstad
-zakenwijk
-zakflacon
-zakgeld
-zakkam
-zakken
-zakkerig
-zakkig
-zakking
-zaklamp
-zaklopen
-zakmes
-zakmuis
-zakpijp
-zaksel
-zakspin
-zakvormig
-zakwater
 zalf
 zalfolie
 zalfpot
@@ -45160,7 +45004,6 @@ zandvlo
 zandvorm
 zandweg
 zandwesp
-zandzak
 zandzee
 zang
 zangbalk
@@ -45606,7 +45449,6 @@ zeuren
 zeurig
 zeurkous
 zeurpiet
-zeurzak
 zeven
 zevenblad
 zevenboom
@@ -45698,7 +45540,6 @@ zijgevel
 zijig
 zijingang
 zijkamer
-zijkanaal
 zijkant
 zijkapel
 zijklep
@@ -45742,7 +45583,6 @@ zijwand
 zijweg
 zijwiel
 zijwind
-zijzak
 zijzelf
 zijzwaard
 zilt
@@ -45829,7 +45669,6 @@ zitting
 zituur
 zitvlak
 zitvlees
-zitzak
 zloty
 zmlk
 zoab
@@ -46095,7 +45934,6 @@ zouttuin
 zoutvat
 zoutvlees
 zoutweger
-zoutzak
 zoutzuur
 zoveel
 zoveelste
@@ -46201,7 +46039,6 @@ zuurtje
 zuurtjes
 zuurvast
 zuurvrij
-zuurzak
 zuurzoet
 zwaai
 zwaaien
@@ -46495,13 +46332,11 @@ chargen
 coupen
 geografe
 partyen
-zaketui
 Mokums
 ijsracen
 coupplan
 wegritsen
 taboeloos
-zakker
 toerwagen
 Oudfries
 opgraver
@@ -46588,7 +46423,6 @@ surimi
 rotding
 raspsel
 wablief
-wijnzak
 slavink
 talliet
 volgbod
@@ -46639,7 +46473,6 @@ dysartrie
 exhumatie
 teakdek
 kleefmijn
-zakenpand
 kroonrand
 oncogen
 buurhuis
@@ -46894,7 +46727,6 @@ kakkerij
 crochet
 meettafel
 Kwinti
-traanzak
 sjampie
 ruigpoot
 vaalwit
@@ -48067,7 +47899,6 @@ bierkaart
 blaaswand
 blokdrop
 blowjob
-bokszak
 boogarm
 boottrip
 borstband
@@ -48115,7 +47946,6 @@ gewestweg
 gietvloer
 gietwater
 gistdeeg
-gitaarzak
 golfkar
 goudstof
 haaksteel
@@ -48418,7 +48248,6 @@ betonrand
 betonverf
 betonwand
 beverdam
-bewaarzak
 bezemhok
 bezorgdag
 bierfiets
@@ -48433,7 +48262,6 @@ bijennest
 bijtwond
 binddraad
 bindsla
-bivakzak
 blaasgat
 bladafval
 bladgroei
@@ -48763,7 +48591,6 @@ framewerk
 freesbank
 frietboer
 frietpan
-frietzak
 friszuur
 frontstad
 fruitbier
@@ -49009,7 +48836,6 @@ kampkrant
 kampthema
 kamptijd
 kampweek
-kanaalarm
 kanopolo
 kanoroute
 kanskaart
@@ -49019,7 +48845,6 @@ kasbasis
 kasteelt
 kauwvlak
 keelhuid
-keelzak
 keerring
 keerwand
 keerwater
@@ -49106,7 +48931,6 @@ kookhoek
 kookroom
 kookstijl
 kooktip
-kookzak
 koororgel
 koorreis
 korenwijn
@@ -49222,7 +49046,6 @@ maillijst
 mailorder
 mannendag
 mannenpil
-mantelzak
 markthuur
 marktstad
 marktvorm
@@ -49389,14 +49212,12 @@ oosteinde
 oostgevel
 oostmuur
 opberghok
-opbergzak
 ophaaldag
 oplapwerk
 oppaskind
 opperhof
 opruimdag
 opvangdag
-opvangzak
 ordewacht
 orgelbank
 orgelkas
@@ -49675,7 +49496,6 @@ snijgroen
 snijkop
 snijwonde
 snoeppot
-snoepzak
 soepdieet
 soeppost
 sokkenwol
@@ -49762,7 +49582,6 @@ stofkeuze
 stofkleed
 stoflaag
 stofmens
-stofzak
 stooftijd
 stooklijn
 stoomdruk
@@ -49867,7 +49686,6 @@ aftapplug
 akkerrand
 autokraan
 babybed
-bakerzak
 boekengek
 borstpomp
 broedbak
@@ -50046,7 +49864,6 @@ vrederijk
 vredevol
 vreetbui
 vreetkick
-vruchtzak
 vuistdiep
 vuurgod
 vuurkist
@@ -50190,7 +50007,6 @@ zaagslee
 zaagwerk
 zadelboom
 zadenbank
-zakenclub
 zandbaan
 zanddijk
 zandkleur
@@ -50210,7 +50026,6 @@ zangster
 zangwijze
 zeeaas
 zeefbeen
-zeekanaal
 zeepier
 zeepsteen
 zeevisser
@@ -50420,7 +50235,6 @@ bankrun
 baskant
 boekstuk
 bouwkost
-breukzak
 broeikast
 buitdrift
 clubactie
@@ -50875,7 +50689,6 @@ vragenset
 waardewet
 waterdorp
 wensvader
-zakendeal
 zeeboek
 zeevloot
 zingtrant
@@ -50964,7 +50777,6 @@ niervlek
 plantloon
 waterbank
 pyjamajas
-koffiezak
 aardkleur
 rotorhuis
 loopstand
@@ -51042,7 +50854,6 @@ infobus
 infodag
 intering
 jackfruit
-kanaalweg
 klepstuw
 kwartiel
 lafjes
@@ -51371,7 +51182,6 @@ spoelvoet
 sportwol
 sprakel
 springvis
-spuugzak
 staalboom
 staalwijn
 stalbeen
@@ -51427,7 +51237,6 @@ staafbom
 vetpuist
 visangel
 viskoekje
-kerkenzak
 afvoerrol
 bashoren
 bosviool
